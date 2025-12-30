@@ -1,0 +1,2973 @@
+[
+  {
+    "name": "逛厂甸",
+    "year": 1983,
+    "laughComposition": [{ "typeId": "语言包袱", "percentage": 100 }]
+  },
+  {
+    "name": "吃鸡",
+    "year": 1983,
+    "laughComposition": [
+        { "typeId": "语言包袱", "percentage": 50 },
+      { "typeId": "夸张视听", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "杂技表演",
+    "year": 1983,
+    "laughComposition": [{ "typeId": "夸张视听", "percentage": 100 }]
+  },
+  {
+    "name": "弹钢琴",
+    "year": 1983,
+    "laughComposition": [{ "typeId": "语言包袱", "percentage": 50 },
+      { "typeId": "夸张视听", "percentage": 50 }]
+  },
+  {
+    "name": "阿Q的独白",
+    "year": 1983,
+    "laughComposition": [
+      { "typeId": "语言包袱", "percentage": 50 },
+      { "typeId": "人物反差", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "戏剧杂谈",
+    "year": 1983,
+    "laughComposition": [
+      { "typeId": "语言包袱", "percentage": 100 }
+    ]
+  },
+  {
+    "name": "看谁贴得快",
+    "year": 1984,
+    "laughComposition": [
+      { "typeId": "夸张视听", "percentage": 100 }
+    ]
+  },
+  {
+    "name": "宇宙牌香烟",
+    "year": 1984,
+    "laughComposition": [
+      { "typeId": "语言包袱", "percentage": 50 },
+      { "typeId": "民生吐槽", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "伞衣帽",
+    "year": 1984,
+    "laughComposition": [
+      { "typeId": "夸张视听", "percentage": 100 }
+    ]
+  },
+  {
+    "name": "淋浴",
+    "year": 1984,
+    "laughComposition": [
+        { "typeId": "语言包袱", "percentage": 50 },
+      { "typeId": "夸张视听", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "吃面条",
+    "year": 1984,
+    "laughComposition": [
+      { "typeId": "夸张视听", "percentage": 50 },
+      { "typeId": "逻辑乌龙", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "电视纠纷",
+    "year": 1984,
+    "laughComposition": [
+      { "typeId": "人物反差", "percentage": 50 },
+      { "typeId": "民生吐槽", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "春联",
+    "year": 1984,
+    "laughComposition": [
+      { "typeId": "语言包袱", "percentage": 100 }
+    ]
+  },
+  {
+    "name": "砸核桃",
+    "year": 1984,
+    "laughComposition": [
+      { "typeId": "夸张视听", "percentage": 100 }
+    ]
+  },
+  {
+    "name": "夸家乡",
+    "year": 1984,
+    "laughComposition": [{ "typeId": "语言包袱", "percentage": 100 }]
+  },
+  {
+    "name": "大乐、特乐",
+    "year": 1985,
+    "laughComposition": [
+      { "typeId": "夸张视听", "percentage": 50 },
+      { "typeId": "逻辑乌龙", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "拍电影",
+    "year": 1985,
+    "laughComposition": [
+      { "typeId": "夸张视听", "percentage": 50 },
+      { "typeId": "逻辑乌龙", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "老牛接班",
+    "year": 1985,
+    "laughComposition": [
+      { "typeId": "人物反差", "percentage": 50 },
+      { "typeId": "逻辑乌龙", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "硬气功表演",
+    "year": 1985,
+    "laughComposition": [{ "typeId": "夸张视听", "percentage": 100 }]
+  },
+  {
+    "name": "看电视",
+    "year": 1985,
+    "laughComposition": [
+        { "typeId": "语言包袱", "percentage": 34 },
+      { "typeId": "人物反差", "percentage": 33 },
+      { "typeId": "民生吐槽", "percentage": 33 }
+    ]
+  },
+  {
+    "name": "虎年谈虎",
+    "year": 1986,
+    "laughComposition": [{ "typeId": "语言包袱", "percentage": 100 }]
+  },
+  {
+    "name": "小魔术",
+    "year": 1986,
+    "laughComposition": [{ "typeId": "逻辑乌龙", "percentage": 100 }]
+  },
+  {
+    "name": "谜语",
+    "year": 1986,
+    "laughComposition": [{ "typeId": "语言包袱", "percentage": 100 }]
+  },
+  {
+    "name": "送礼",
+    "year": 1986,
+    "laughComposition": [
+      { "typeId": "人物反差", "percentage": 50 },
+      { "typeId": "民生吐槽", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "怪声独唱",
+    "year": 1986,
+    "laughComposition": [{ "typeId": "夸张视听", "percentage": 100 }]
+  },
+  {
+    "name": "戏迷",
+    "year": 1986,
+    "laughComposition": [
+        { "typeId": "语言包袱", "percentage": 50 },
+      { "typeId": "人物反差", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "空中悬人",
+    "year": 1986,
+    "laughComposition": [{ "typeId": "夸张视听", "percentage": 100 }]
+  },
+  {
+    "name": "吹牛",
+    "year": 1986,
+    "laughComposition": [
+      { "typeId": "语言包袱", "percentage": 50 },
+      { "typeId": "夸张视听", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "照相",
+    "year": 1986,
+    "laughComposition": [
+      { "typeId": "人物反差", "percentage": 50 },
+      { "typeId": "逻辑乌龙", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "羊肉串",
+    "year": 1986,
+    "laughComposition": [
+      { "typeId": "人物反差", "percentage": 50 },
+      { "typeId": "民生吐槽", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "唱歌的姿势",
+    "year": 1986,
+    "laughComposition": [{ "typeId": "夸张视听", "percentage": 100 }]
+  },
+  {
+    "name": "孙二娘开店",
+    "year": 1987,
+    "laughComposition": [
+        { "typeId": "语言包袱", "percentage": 34 },
+      { "typeId": "人物反差", "percentage": 33 },
+      { "typeId": "逻辑乌龙", "percentage": 33 }
+    ]
+  },
+  {
+    "name": "家庭宴会",
+    "year": 1987,
+    "laughComposition": [{ "typeId": "语言包袱", "percentage": 34 },
+      { "typeId": "人物反差", "percentage": 33 },
+      { "typeId": "逻辑乌龙", "percentage": 33 }]
+  },
+  {
+    "name": "恩爱夫妻",
+    "year": 1987,
+    "laughComposition": [{ "typeId": "语言包袱", "percentage": 34 },
+      { "typeId": "人物反差", "percentage": 33 },
+      { "typeId": "民生吐槽", "percentage": 33 }]
+  },
+  {
+    "name": "学播音",
+    "year": 1987,
+    "laughComposition": [
+        { "typeId": "语言包袱", "percentage": 50 },
+      { "typeId": "夸张视听", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "虎口遐想",
+    "year": 1987,
+    "laughComposition": [
+      { "typeId": "语言包袱", "percentage": 50 },
+      { "typeId": "逻辑乌龙", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "变兔",
+    "year": 1987,
+    "laughComposition": [{ "typeId": "逻辑乌龙", "percentage": 100 }]
+  },
+  {
+    "name": "拔牙",
+    "year": 1987,
+    "laughComposition": [
+      { "typeId": "夸张视听", "percentage": 100 }
+    ]
+  },
+  {
+    "name": "产房门前",
+    "year": 1987,
+    "laughComposition": [
+      { "typeId": "人物反差", "percentage": 50 },
+      { "typeId": "民生吐槽", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "打岔",
+    "year": 1987,
+    "laughComposition": [
+      { "typeId": "逻辑乌龙", "percentage": 100 }
+    ]
+  },
+  {
+    "name": "卖鱼",
+    "year": 1987,
+    "laughComposition": [
+      { "typeId": "人物反差", "percentage": 50 },
+      { "typeId": "民生吐槽", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "五官争功",
+    "year": 1987,
+    "laughComposition": [
+      { "typeId": "语言包袱", "percentage": 50 },
+      { "typeId": "人物反差", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "评书贯口",
+    "year": 1988,
+    "laughComposition": [{ "typeId": "语言包袱", "percentage": 100 }]
+  },
+  {
+    "name": "急诊",
+    "year": 1988,
+    "laughComposition": [
+      { "typeId": "人物反差", "percentage": 50 },
+      { "typeId": "逻辑乌龙", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "求全责备",
+    "year": 1988,
+    "laughComposition": [{ "typeId": "语言包袱", "percentage": 100 }]
+  },
+  {
+    "name": "对话趣谈",
+    "year": 1988,
+    "laughComposition": [
+      { "typeId": "语言包袱", "percentage": 100 }
+    ]
+  },
+  {
+    "name": "攀比",
+    "year": 1988,
+    "laughComposition": [
+      { "typeId": "人物反差", "percentage": 50 },
+      { "typeId": "民生吐槽", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "轻功表演",
+    "year": 1988,
+    "laughComposition": [{ "typeId": "夸张视听", "percentage": 100 }]
+  },
+  {
+    "name": "电梯奇遇",
+    "year": 1988,
+    "laughComposition": [
+      { "typeId": "逻辑乌龙", "percentage": 50 },
+      { "typeId": "夸张视听", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "接妻",
+    "year": 1988,
+    "laughComposition": [
+        { "typeId": "语言包袱", "percentage": 50 },
+      { "typeId": "逻辑乌龙", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "门铃声声",
+    "year": 1988,
+    "laughComposition": [
+        { "typeId": "语言包袱", "percentage": 34 },
+        { "typeId": "夸张视听", "percentage": 33 },
+      { "typeId": "逻辑乌龙", "percentage": 33 }
+    ]
+  },
+  {
+    "name": "蹬技",
+    "year": 1988,
+    "laughComposition": [{ "typeId": "夸张视听", "percentage": 100 }]
+  },
+  {
+    "name": "巧立名目",
+    "year": 1988,
+    "laughComposition": [
+      { "typeId": "语言包袱", "percentage": 50 },
+      { "typeId": "民生吐槽", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "英雄母亲的一天",
+    "year": 1989,
+    "laughComposition": [
+      { "typeId": "语言包袱", "percentage": 50 },
+      { "typeId": "人物反差", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "喷水断砖",
+    "year": 1989,
+    "laughComposition": [{ "typeId": "夸张视听", "percentage": 100 }]
+  },
+  {
+    "name": "少儿杂技集锦",
+    "year": 1989,
+    "laughComposition": [{ "typeId": "夸张视听", "percentage": 100 }]
+  },
+  {
+    "name": "招聘",
+    "year": 1989,
+    "laughComposition": [
+      { "typeId": "人物反差", "percentage": 50 },
+      { "typeId": "民生吐槽", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "双簧",
+    "year": 1989,
+    "laughComposition": [
+      { "typeId": "人物反差", "percentage": 50 },
+      { "typeId": "夸张视听", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "懒汉相亲",
+    "year": 1989,
+    "laughComposition": [
+        { "typeId": "语言包袱", "percentage": 25 },
+      { "typeId": "人物反差", "percentage": 25 },
+      { "typeId": "夸张视听", "percentage": 25 },
+      { "typeId": "民生吐槽", "percentage": 25 }
+    ]
+  },
+  {
+    "name": "电影打岔",
+    "year": 1989,
+    "laughComposition": [
+      { "typeId": "逻辑乌龙", "percentage": 100 }
+    ]
+  },
+  {
+    "name": "胡椒面",
+    "year": 1989,
+    "laughComposition": [
+      { "typeId": "夸张视听", "percentage": 50 },
+      { "typeId": "逻辑乌龙", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "捕风捉影",
+    "year": 1989,
+    "laughComposition": [
+      { "typeId": "语言包袱", "percentage": 50 },
+      { "typeId": "人物反差", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "太挤了",
+    "year": 1989,
+    "laughComposition": [
+      { "typeId": "夸张视听", "percentage": 50 },
+      { "typeId": "民生吐槽", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "背起那小妹妹",
+    "year": 1990,
+    "laughComposition": [ { "typeId": "语言包袱", "percentage": 50 },
+    { "typeId": "夸张视听", "percentage": 50 }]
+  },
+  {
+    "name": "相亲",
+    "year": 1990,
+    "laughComposition": [
+      { "typeId": "语言包袱", "percentage": 50 },
+      { "typeId": "人物反差", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "京剧迪斯科",
+    "year": 1990,
+    "laughComposition": [{ "typeId": "夸张视听", "percentage": 100 }]
+  },
+  {
+    "name": "打麻将",
+    "year": 1990,
+    "laughComposition": [
+      { "typeId": "人物反差", "percentage": 50 },
+      { "typeId": "民生吐槽", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "二重唱",
+    "year": 1990,
+    "laughComposition": [{ "typeId": "语言包袱", "percentage": 50 },
+      { "typeId": "人物反差", "percentage": 50 }]
+  },
+  {
+    "name": "难兄难弟",
+    "year": 1990,
+    "laughComposition": [
+      { "typeId": "语言包袱", "percentage": 50 },
+      { "typeId": "人物反差", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "举重",
+    "year": 1990,
+    "laughComposition": [{ "typeId": "语言包袱", "percentage": 50 },
+    { "typeId": "夸张视听", "percentage": 50 }]
+  },
+  {
+    "name": "主角与配角",
+    "year": 1990,
+    "laughComposition": [
+      { "typeId": "人物反差", "percentage": 50 },
+      { "typeId": "语言包袱", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "手拉手",
+    "year": 1991,
+    "laughComposition": [{ "typeId": "人物反差", "percentage": 50 },
+      { "typeId": "语言包袱", "percentage": 50 }]
+  },
+  {
+    "name": "山寨相亲",
+    "year": 1991,
+    "laughComposition": [
+      { "typeId": "人物反差", "percentage": 50 },
+      { "typeId": "民生吐槽", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "小蹬人",
+    "year": 1991,
+    "laughComposition": [{ "typeId": "夸张视听", "percentage": 100 }]
+  },
+  {
+    "name": "着急",
+    "year": 1991,
+    "laughComposition": [
+      { "typeId": "夸张视听", "percentage": 50 },
+      { "typeId": "民生吐槽", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "百业奇招",
+    "year": 1991,
+    "laughComposition": [
+      { "typeId": "夸张视听", "percentage": 50 },
+      { "typeId": "逻辑乌龙", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "陌生人",
+    "year": 1991,
+    "laughComposition": [{ "typeId": "夸张视听", "percentage": 50 },
+      { "typeId": "语言包袱", "percentage": 50 }]
+  },
+  {
+    "name": "洞房花烛夜",
+    "year": 1991,
+    "laughComposition": [{ "typeId": "夸张视听", "percentage": 50 },
+      { "typeId": "语言包袱", "percentage": 50 }]
+  },
+  {
+    "name": "小九老乐",
+    "year": 1991,
+    "laughComposition": [
+      { "typeId": "人物反差", "percentage": 50 },
+      { "typeId": "逻辑乌龙", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "警察与小偷",
+    "year": 1991,
+    "laughComposition": [
+      { "typeId": "人物反差", "percentage": 50 },
+      { "typeId": "逻辑乌龙", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "打棍出箱",
+    "year": 1991,
+    "laughComposition": [{ "typeId": "夸张视听", "percentage": 100 }]
+  },
+  {
+    "name": "笑星劝酒",
+    "year": 1991,
+    "laughComposition": [
+      { "typeId": "语言包袱", "percentage": 50 },
+      { "typeId": "夸张视听", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "学唱",
+    "year": 1991,
+    "laughComposition": [{ "typeId": "夸张视听", "percentage": 100 }]
+  },
+  {
+    "name": "训徒",
+    "year": 1991,
+    "laughComposition": [
+      { "typeId": "人物反差", "percentage": 100 }
+    ]
+  },
+  {
+    "name": "争先恐后",
+    "year": 1991,
+    "laughComposition": [{ "typeId": "夸张视听", "percentage": 50 },
+{ "typeId": "人物反差", "percentage": 50 }]
+  },
+  {
+    "name": "小站联欢会",
+    "year": 1992,
+    "laughComposition": [{ "typeId": "语言包袱", "percentage": 50 },
+{ "typeId": "夸张视听", "percentage": 50 }]
+  },
+  {
+    "name": "秧歌情",
+    "year": 1992,
+    "laughComposition": [{ "typeId": "语言包袱", "percentage": 50 },
+{ "typeId": "民生吐槽", "percentage": 50 }]
+  },
+  {
+    "name": "戒赌",
+    "year": 1992,
+    "laughComposition": [
+      { "typeId": "人物反差", "percentage": 50 },
+      { "typeId": "民生吐槽", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "办晚会",
+    "year": 1992,
+    "laughComposition": [
+      { "typeId": "人物反差", "percentage": 50 },
+      { "typeId": "逻辑乌龙", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "超生游击队",
+    "year": 1992,
+    "laughComposition": [
+      { "typeId": "人物反差", "percentage": 50 },
+      { "typeId": "民生吐槽", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "顶牛",
+    "year": 1992,
+    "laughComposition": [
+      { "typeId": "夸张视听", "percentage": 50 },
+      { "typeId": "逻辑乌龙", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "妈妈的今天",
+    "year": 1992,
+    "laughComposition": [
+      { "typeId": "人物反差", "percentage": 50 },
+      { "typeId": "夸张视听", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "宠物热",
+    "year": 1992,
+    "laughComposition": [
+      { "typeId": "夸张视听", "percentage": 50 },
+      { "typeId": "民生吐槽", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "草台班子",
+    "year": 1992,
+    "laughComposition": [
+      { "typeId": "人物反差", "percentage": 50 },
+      { "typeId": "逻辑乌龙", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "论捧",
+    "year": 1992,
+    "laughComposition": [
+      { "typeId": "语言包袱", "percentage": 100 }
+    ]
+  },
+  {
+    "name": "改门脸",
+    "year": 1992,
+    "laughComposition": [
+      { "typeId": "人物反差", "percentage": 50 },
+      { "typeId": "民生吐槽", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "姐夫与小舅子",
+    "year": 1992,
+    "laughComposition": [
+      { "typeId": "人物反差", "percentage": 50 },
+      { "typeId": "逻辑乌龙", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "魔术表演",
+    "year": 1993,
+    "laughComposition": [{ "typeId": "逻辑乌龙", "percentage": 100 }]
+  },
+  {
+    "name": "擦皮鞋",
+    "year": 1993,
+    "laughComposition": [
+      { "typeId": "人物反差", "percentage": 50 },
+      { "typeId": "民生吐槽", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "群丑争春",
+    "year": 1993,
+    "laughComposition": [{ "typeId": "夸张视听", "percentage": 100 }]
+  },
+  {
+    "name": "老拜年",
+    "year": 1993,
+    "laughComposition": [
+      { "typeId": "人物反差", "percentage": 50 },
+      { "typeId": "语言包袱", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "山妞与模特",
+    "year": 1993,
+    "laughComposition": [
+      { "typeId": "人物反差", "percentage": 100 }
+    ]
+  },
+  {
+    "name": "张三其人",
+    "year": 1993,
+    "laughComposition": [
+      { "typeId": "人物反差", "percentage": 50 },
+      { "typeId": "逻辑乌龙", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "楼道曲",
+    "year": 1993,
+    "laughComposition": [
+      { "typeId": "人物反差", "percentage": 50 },
+      { "typeId": "民生吐槽", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "拍卖",
+    "year": 1993,
+    "laughComposition": [
+      { "typeId": "人物反差", "percentage": 50 },
+      { "typeId": "逻辑乌龙", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "推销",
+    "year": 1993,
+    "laughComposition": [
+      { "typeId": "语言包袱", "percentage": 50 },
+      { "typeId": "民生吐槽", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "8字迷",
+    "year": 1993,
+    "laughComposition": [{ "typeId": "语言包袱", "percentage": 100 }]
+  },
+  {
+    "name": "多多关照",
+    "year": 1993,
+    "laughComposition": [
+      { "typeId": "语言包袱", "percentage": 50 },
+      { "typeId": "民生吐槽", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "侯大明白",
+    "year": 1993,
+    "laughComposition": [
+      { "typeId": "语言包袱", "percentage": 50 },
+      { "typeId": "人物反差", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "武旦绝技",
+    "year": 1993,
+    "laughComposition": [{ "typeId": "夸张视听", "percentage": 100 }]
+  },
+  {
+    "name": "市场速写",
+    "year": 1993,
+    "laughComposition": [
+      { "typeId": "民生吐槽", "percentage": 100 }
+    ]
+  },
+  {
+    "name": "新名词",
+    "year": 1993,
+    "laughComposition": [
+      { "typeId": "语言包袱", "percentage": 100 }
+    ]
+  },
+  {
+    "name": "越洋电话",
+    "year": 1994,
+    "laughComposition": [
+      { "typeId": "语言包袱", "percentage": 33 },
+      { "typeId": "逻辑乌龙", "percentage": 33 },
+      { "typeId": "民生吐槽", "percentage": 34 }
+    ]
+  },
+  {
+    "name": "呼啦圈表演",
+    "year": 1994,
+    "laughComposition": [{ "typeId": "夸张视听", "percentage": 100 }]
+  },
+  {
+    "name": "密码",
+    "year": 1994,
+    "laughComposition": [{ "typeId": "逻辑乌龙", "percentage": 100 }]
+  },
+  {
+    "name": "跑题",
+    "year": 1994,
+    "laughComposition": [
+      { "typeId": "语言包袱", "percentage": 50 },
+      { "typeId": "逻辑乌龙", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "八哥来信",
+    "year": 1994,
+    "laughComposition": [
+      { "typeId": "逻辑乌龙", "percentage": 50 },
+      { "typeId": "人物反差", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "吃饺子",
+    "year": 1994,
+    "laughComposition": [
+      { "typeId": "民生吐槽", "percentage": 50 },
+      { "typeId": "语言包袱", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "打扑克",
+    "year": 1994,
+    "laughComposition": [
+      { "typeId": "语言包袱", "percentage": 34 },
+      { "typeId": "人物反差", "percentage": 33 },
+      { "typeId": "民生吐槽", "percentage": 33 }
+    ]
+  },
+  {
+    "name": "上梁下梁",
+    "year": 1994,
+    "laughComposition": [
+      { "typeId": "人物反差", "percentage": 50 },
+      { "typeId": "民生吐槽", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "点子公司",
+    "year": 1994,
+    "laughComposition": [
+      { "typeId": "语言包袱", "percentage": 34 },
+      { "typeId": "逻辑乌龙", "percentage": 33 },
+      { "typeId": "民生吐槽", "percentage": 33 }
+    ]
+  },
+  {
+    "name": "大变活人",
+    "year": 1994,
+    "laughComposition": [
+      { "typeId": "逻辑乌龙", "percentage": 50 },
+      { "typeId": "夸张视听", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "拆迁变奏曲",
+    "year": 1994,
+    "laughComposition": [
+      { "typeId": "民生吐槽", "percentage": 50 },
+      { "typeId": "语言包袱", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "找焦点",
+    "year": 1995,
+    "laughComposition": [
+      { "typeId": "语言包袱", "percentage": 50 },
+      { "typeId": "民生吐槽", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "如此包装",
+    "year": 1995,
+    "laughComposition": [
+      { "typeId": "语言包袱", "percentage": 25 },
+      { "typeId": "人物反差", "percentage": 25 },
+      { "typeId": "民生吐槽", "percentage": 25 },
+      { "typeId": "夸张视听", "percentage": 25 }
+    ]
+  },
+  {
+    "name": "谁有毛病",
+    "year": 1995,
+    "laughComposition": [
+      { "typeId": "语言包袱", "percentage": 33 },
+      { "typeId": "逻辑乌龙", "percentage": 33 },
+      { "typeId": "人物反差", "percentage": 34 }
+    ]
+  },
+  {
+    "name": "人体复印机",
+    "year": 1995,
+    "laughComposition": [
+      { "typeId": "逻辑乌龙", "percentage": 100 }
+    ]
+  },
+  {
+    "name": "最差先生",
+    "year": 1995,
+    "laughComposition": [
+      { "typeId": "人物反差", "percentage": 50 },
+      { "typeId": "民生吐槽", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "牛大叔“提乾”",
+    "year": 1995,
+    "laughComposition": [
+      { "typeId": "语言包袱", "percentage": 34 },
+      { "typeId": "人物反差", "percentage": 33 },
+      { "typeId": "民生吐槽", "percentage": 33 }
+    ]
+  },
+  {
+    "name": "有事您说话",
+    "year": 1995,
+    "laughComposition": [
+      { "typeId": "人物反差", "percentage": 50 },
+      { "typeId": "民生吐槽", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "魔术表演",
+    "year": 1995,
+    "laughComposition": [{ "typeId": "逻辑乌龙", "percentage": 100 }]
+  },
+  {
+    "name": "纠察",
+    "year": 1995,
+    "laughComposition": [
+      { "typeId": "人物反差", "percentage": 50 },
+      { "typeId": "逻辑乌龙", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "童心童趣",
+    "year": 1996,
+    "laughComposition": [{ "typeId": "夸张视听", "percentage": 100 }]
+  },
+  {
+    "name": "机器人趣话",
+    "year": 1996,
+    "laughComposition": [
+      { "typeId": "逻辑乌龙", "percentage": 100 }
+    ]
+  },
+  {
+    "name": "过河",
+    "year": 1996,
+    "laughComposition": [
+      { "typeId": "人物反差", "percentage": 100 }
+    ]
+  },
+  {
+    "name": "一个钱包",
+    "year": 1996,
+    "laughComposition": [
+      { "typeId": "逻辑乌龙", "percentage": 100 }
+    ]
+  },
+  {
+    "name": "打工奇遇",
+    "year": 1996,
+    "laughComposition": [
+      { "typeId": "语言包袱", "percentage": 25 },
+      { "typeId": "人物反差", "percentage": 25 },
+      { "typeId": "民生吐槽", "percentage": 25 },
+      { "typeId": "夸张视听", "percentage": 25 }
+    ]
+  },
+  {
+    "name": "路口",
+    "year": 1996,
+    "laughComposition": [
+      { "typeId": "语言包袱", "percentage": 50 },
+      { "typeId": "人物反差", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "三鞭子",
+    "year": 1996,
+    "laughComposition": [
+      { "typeId": "语言包袱", "percentage": 34 },
+      { "typeId": "人物反差", "percentage": 33 },
+      { "typeId": "民生吐槽", "percentage": 33 }
+    ]
+  },
+  {
+    "name": "侯大胆",
+    "year": 1996,
+    "laughComposition": [
+      { "typeId": "人物反差", "percentage": 100 }
+    ]
+  },
+  {
+    "name": "老少乐",
+    "year": 1996,
+    "laughComposition": [
+      { "typeId": "人物反差", "percentage": 100 }
+    ]
+  },
+  {
+    "name": "三姐妹当兵",
+    "year": 1997,
+    "laughComposition": [{ "typeId": "人物反差", "percentage": 100 }]
+  },
+  {
+    "name": "送春联",
+    "year": 1997,
+    "laughComposition": [{ "typeId": "语言包袱", "percentage": 100 }]
+  },
+  {
+    "name": "鞋钉",
+    "year": 1997,
+    "laughComposition": [
+      { "typeId": "人物反差", "percentage": 50 },
+      { "typeId": "语言包袱", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "红高粱模特队",
+    "year": 1997,
+    "laughComposition": [
+      { "typeId": "语言包袱", "percentage": 25 },
+      { "typeId": "人物反差", "percentage": 25 },
+      { "typeId": "夸张视听", "percentage": 25 },
+      { "typeId": "民生吐槽", "percentage": 25 }
+    ]
+  },
+  {
+    "name": "宇宙体操选拔赛",
+    "year": 1997,
+    "laughComposition": [{ "typeId": "夸张视听", "percentage": 100 }]
+  },
+  {
+    "name": "戏里戏外",
+    "year": 1997,
+    "laughComposition": [
+      { "typeId": "人物反差", "percentage": 50 },
+      { "typeId": "逻辑乌龙", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "京九演义",
+    "year": 1997,
+    "laughComposition": [
+      { "typeId": "语言包袱", "percentage": 50 },
+      { "typeId": "民生吐槽", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "魔术",
+    "year": 1997,
+    "laughComposition": [
+      { "typeId": "逻辑乌龙", "percentage": 100 }
+    ]
+  },
+  {
+    "name": "打传呼",
+    "year": 1997,
+    "laughComposition": [
+      { "typeId": "逻辑乌龙", "percentage": 100 }
+    ]
+  },
+  {
+    "name": "坐享其成",
+    "year": 1998,
+    "laughComposition": [
+      { "typeId": "语言包袱", "percentage": 50 },
+      { "typeId": "人物反差", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "我在马路边",
+    "year": 1998,
+    "laughComposition": [
+      { "typeId": "语言包袱", "percentage": 34 },
+      { "typeId": "夸张视听", "percentage": 33 },
+      { "typeId": "人物反差", "percentage": 33 }
+    ]
+  },
+  {
+    "name": "回家",
+    "year": 1998,
+    "laughComposition": [    
+      { "typeId": "语言包袱", "percentage": 34 },
+      { "typeId": "夸张视听", "percentage": 33 },
+      { "typeId": "人物反差", "percentage": 33 }
+    ]
+  },
+  {
+    "name": "拜年",
+    "year": 1998,
+    "laughComposition": [
+      { "typeId": "语言包袱", "percentage": 50 },
+      { "typeId": "夸张视听", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "功夫令",
+    "year": 1998,
+    "laughComposition": [{ "typeId": "夸张视听", "percentage": 100 }]
+  },
+  {
+    "name": "转毯与蹬人",
+    "year": 1998,
+    "laughComposition": [{ "typeId": "夸张视听", "percentage": 100 }]
+  },
+  {
+    "name": "一张邮票",
+    "year": 1998,
+    "laughComposition": [
+      { "typeId": "逻辑乌龙", "percentage": 50 },
+      { "typeId": "语言包袱", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "戏曲绝活",
+    "year": 1998,
+    "laughComposition": [{ "typeId": "夸张视听", "percentage": 100 }]
+  },
+  {
+    "name": "东西南北兵",
+    "year": 1998,
+    "laughComposition": [
+      { "typeId": "逻辑乌龙", "percentage": 50 },
+      { "typeId": "语言包袱", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "王爷邮差",
+    "year": 1998,
+    "laughComposition": [
+      { "typeId": "人物反差", "percentage": 50 },
+      { "typeId": "逻辑乌龙", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "人换人",
+    "year": 1998,
+    "laughComposition": [
+      { "typeId": "人物反差", "percentage": 100 }
+    ]
+  },
+  {
+    "name": "老将出马",
+    "year": 1999,
+    "laughComposition": [
+      { "typeId": "人物反差", "percentage": 100 }
+    ]
+  },
+  {
+    "name": "滚环",
+    "year": 1999,
+    "laughComposition": [{ "typeId": "夸张视听", "percentage": 100 }]
+  },
+  {
+    "name": "瞧这俩爹",
+    "year": 1999,
+    "laughComposition": [
+      { "typeId": "人物反差", "percentage": 50 },
+      { "typeId": "民生吐槽", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "真情30秒",
+    "year": 1999,
+    "laughComposition": [{ "typeId": "人物反差", "percentage": 50 },
+      { "typeId": "语言包袱", "percentage": 50 }]
+  },
+  {
+    "name": "打气儿",
+    "year": 1999,
+    "laughComposition": [
+      { "typeId": "语言包袱", "percentage": 34 },
+      { "typeId": "人物反差", "percentage": 33 },
+      { "typeId": "民生吐槽", "percentage": 33 }
+    ]
+  },
+  {
+    "name": "昨天 今天 明天",
+    "year": 1999,
+    "laughComposition": [
+      { "typeId": "语言包袱", "percentage": 25 },
+      { "typeId": "人物反差", "percentage": 25 },
+      { "typeId": "逻辑乌龙", "percentage": 25 },
+      { "typeId": "民生吐槽", "percentage": 25 }
+    ]
+  },
+  {
+    "name": "白吃",
+    "year": 1999,
+    "laughComposition": [
+      { "typeId": "语言包袱", "percentage": 50 },
+      { "typeId": "逻辑乌龙", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "球迷",
+    "year": 1999,
+    "laughComposition": [
+      { "typeId": "人物反差", "percentage": 50 },
+      { "typeId": "民生吐槽", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "减肥变奏曲",
+    "year": 1999,
+    "laughComposition": [
+      { "typeId": "夸张视听", "percentage": 50 },
+      { "typeId": "民生吐槽", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "新龟兔赛跑",
+    "year": 1999,
+    "laughComposition": [
+      { "typeId": "人物反差", "percentage": 100 }
+    ]
+  },
+  {
+    "name": "同桌的她",
+    "year": 2000,
+    "laughComposition": [{ "typeId": "语言包袱", "percentage": 34 },
+      { "typeId": "人物反差", "percentage": 33 },
+      { "typeId": "逻辑乌龙", "percentage": 33 }]
+  },
+  {
+    "name": "明星反串闹新春",
+    "year": 2000,
+    "laughComposition": [{ "typeId": "人物反差", "percentage": 100 }]
+  },
+  {
+    "name": "钟点工",
+    "year": 2000,
+    "laughComposition": [
+      { "typeId": "语言包袱", "percentage": 34 },
+      { "typeId": "人物反差", "percentage": 33 },
+      { "typeId": "民生吐槽", "percentage": 33 }
+    ]
+  },
+  {
+    "name": "爱笑的女孩",
+    "year": 2000,
+    "laughComposition": [ { "typeId": "语言包袱", "percentage": 50 },
+      { "typeId": "人物反差", "percentage": 50 }]
+  },
+  {
+    "name": "小站故事",
+    "year": 2000,
+    "laughComposition": [{ "typeId": "语言包袱", "percentage": 50 },
+      { "typeId": "人物反差", "percentage": 50 }]
+  },
+  {
+    "name": "笑一笑",
+    "year": 2000,
+    "laughComposition": [{ "typeId": "语言包袱", "percentage": 100 }]
+  },
+  {
+    "name": "品茶",
+    "year": 2000,
+    "laughComposition": [
+      { "typeId": "人物反差", "percentage": 50 },
+      { "typeId": "逻辑乌龙", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "青春之约",
+    "year": 2000,
+    "laughComposition": [{ "typeId": "语言包袱", "percentage": 100 }]
+  },
+  {
+    "name": "谈情说爱",
+    "year": 2000,
+    "laughComposition": [
+      { "typeId": "人物反差", "percentage": 50 },
+      { "typeId": "语言包袱", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "红娘",
+    "year": 2001,
+    "laughComposition": [{ "typeId": "人物反差", "percentage": 50 },
+      { "typeId": "语言包袱", "percentage": 50 }]
+  },
+  {
+    "name": "得寸进尺",
+    "year": 2001,
+    "laughComposition": [
+      { "typeId": "语言包袱", "percentage": 34 },
+      { "typeId": "人物反差", "percentage": 33 },
+      { "typeId": "民生吐槽", "percentage": 33 }
+    ]
+  },
+  {
+    "name": "踩脚",
+    "year": 2001,
+    "laughComposition": [
+        { "typeId": "语言包袱", "percentage": 50 },
+      { "typeId": "逻辑乌龙", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "家有老爸",
+    "year": 2001,
+    "laughComposition": [ { "typeId": "语言包袱", "percentage": 50 },
+      { "typeId": "人物反差", "percentage": 50 }]
+  },
+  {
+    "name": "戏迷",
+    "year": 2001,
+    "laughComposition": [
+      { "typeId": "人物反差", "percentage": 100 }
+    ]
+  },
+  {
+    "name": "动物运动会",
+    "year": 2001,
+    "laughComposition": [
+        { "typeId": "语言包袱", "percentage": 50 },
+        { "typeId": "夸张视听", "percentage": 50 }]
+  },
+  {
+    "name": "咱也试一把",
+    "year": 2001,
+    "laughComposition": [
+      { "typeId": "人物反差", "percentage": 50 },
+      { "typeId": "民生吐槽", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "卖拐",
+    "year": 2001,
+    "laughComposition": [
+      { "typeId": "语言包袱", "percentage": 34 },
+      { "typeId": "逻辑乌龙", "percentage": 33 },
+      { "typeId": "夸张视听", "percentage": 33 }
+    ]
+  },
+  {
+    "name": "说声对不起",
+    "year": 2001,
+    "laughComposition": [{ "typeId": "语言包袱", "percentage": 50 },
+      { "typeId": "夸张视听", "percentage": 50 }]
+  },
+  {
+    "name": "杂技组合 表演",
+    "year": 2001,
+    "laughComposition": [{ "typeId": "夸张视听", "percentage": 100 }]
+  },
+  {
+    "name": "三号楼长",
+    "year": 2001,
+    "laughComposition": [
+      { "typeId": "人物反差", "percentage": 50 },
+      { "typeId": "民生吐槽", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "台上台下",
+    "year": 2002,
+    "laughComposition": [
+      { "typeId": "语言包袱", "percentage": 50 },
+      { "typeId": "人物反差", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "花盆儿",
+    "year": 2002,
+    "laughComposition": [
+      { "typeId": "语言包袱", "percentage": 50 },
+      { "typeId": "逻辑乌龙", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "马年颂马",
+    "year": 2002,
+    "laughComposition": [{ "typeId": "语言包袱", "percentage": 100 }]
+  },
+  {
+    "name": "智力闯关",
+    "year": 2002,
+    "laughComposition": [{ "typeId": "语言包袱", "percentage": 50 },
+      { "typeId": "人物反差", "percentage": 50 }]
+  },
+  {
+    "name": "卖车",
+    "year": 2002,
+    "laughComposition": [
+      { "typeId": "语言包袱", "percentage": 34 },
+      { "typeId": "逻辑乌龙", "percentage": 33 },
+      { "typeId": "夸张视听", "percentage": 33 }
+    ]
+  },
+  {
+    "name": "力量",
+    "year": 2002,
+    "laughComposition": [{ "typeId": "夸张视听", "percentage": 100 }]
+  },
+  {
+    "name": "英语大家说",
+    "year": 2002,
+    "laughComposition": [
+      { "typeId": "语言包袱", "percentage": 100 }
+    ]
+  },
+  {
+    "name": "妙趣网生",
+    "year": 2002,
+    "laughComposition": [
+      { "typeId": "语言包袱", "percentage": 50 },
+      { "typeId": "民生吐槽", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "邻里之间",
+    "year": 2002,
+    "laughComposition": [
+      { "typeId": "人物反差", "percentage": 50 },
+      { "typeId": "民生吐槽", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "圆梦",
+    "year": 2002,
+    "laughComposition": [{ "typeId": "语言包袱", "percentage": 50 },
+      { "typeId": "人物反差", "percentage": 50 }]
+  },
+  {
+    "name": "十二生肖大拜年",
+    "year": 2003,
+    "laughComposition": [{ "typeId": "夸张视听", "percentage": 100 }]
+  },
+  {
+    "name": "马路情歌",
+    "year": 2003,
+    "laughComposition": [
+      { "typeId": "语言包袱", "percentage": 50 },
+      { "typeId": "人物反差", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "我和爸爸换角色",
+    "year": 2003,
+    "laughComposition": [
+      { "typeId": "人物反差", "percentage": 50 },
+      { "typeId": "民生吐槽", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "今非昔比",
+    "year": 2003,
+    "laughComposition": [
+      { "typeId": "语言包袱", "percentage": 50 },
+      { "typeId": "民生吐槽", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "足疗",
+    "year": 2003,
+    "laughComposition": [
+      { "typeId": "人物反差", "percentage": 50 },
+      { "typeId": "民生吐槽", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "都是亲人",
+    "year": 2003,
+    "laughComposition": [
+        { "typeId": "语言包袱", "percentage": 50 },
+      { "typeId": "逻辑乌龙", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "心病",
+    "year": 2003,
+    "laughComposition": [
+      { "typeId": "语言包袱", "percentage": 34 },
+      { "typeId": "逻辑乌龙", "percentage": 33 },
+      { "typeId": "夸张视听", "percentage": 33 }
+    ]
+  },
+  {
+    "name": "说广告",
+    "year": 2003,
+    "laughComposition": [
+      { "typeId": "语言包袱", "percentage": 100 }
+    ]
+  },
+  {
+    "name": "狮舞东方",
+    "year": 2003,
+    "laughComposition": [{ "typeId": "夸张视听", "percentage": 100 }]
+  },
+  {
+    "name": "让一让，生活真美好",
+    "year": 2004,
+    "laughComposition": [
+      { "typeId": "语言包袱", "percentage": 50 },
+      { "typeId": "民生吐槽", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "好人不打折",
+    "year": 2004,
+    "laughComposition": [
+      { "typeId": "人物反差", "percentage": 50 },
+      { "typeId": "民生吐槽", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "讲故事",
+    "year": 2004,
+    "laughComposition": [
+      { "typeId": "逻辑乌龙", "percentage": 50 },
+      { "typeId": "民生吐槽", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "软钢丝",
+    "year": 2004,
+    "laughComposition": [{ "typeId": "夸张视听", "percentage": 100 }]
+  },
+  {
+    "name": "如此指导",
+    "year": 2004,
+    "laughComposition": [
+      { "typeId": "语言包袱", "percentage": 50 },
+      { "typeId": "人物反差", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "兄弟",
+    "year": 2004,
+    "laughComposition": [ { "typeId": "语言包袱", "percentage": 50 },
+      { "typeId": "人物反差", "percentage": 50 }]
+  },
+  {
+    "name": "都市外乡人",
+    "year": 2004,
+    "laughComposition": [
+      { "typeId": "人物反差", "percentage": 50 },
+      { "typeId": "民生吐槽", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "阳光健身房",
+    "year": 2004,
+    "laughComposition": [
+      { "typeId": "夸张视听", "percentage": 100 }
+    ]
+  },
+  {
+    "name": "送水工",
+    "year": 2004,
+    "laughComposition": [
+      { "typeId": "人物反差", "percentage": 50 },
+      { "typeId": "逻辑乌龙", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "婚礼",
+    "year": 2004,
+    "laughComposition": [{ "typeId": "语言包袱", "percentage": 50 },
+      { "typeId": "人物反差", "percentage": 50 }]
+  },
+  {
+    "name": "变脸",
+    "year": 2004,
+    "laughComposition": [{ "typeId": "夸张视听", "percentage": 100 }]
+  },
+  {
+    "name": "咨询热线",
+    "year": 2005,
+    "laughComposition": [
+      { "typeId": "语言包袱", "percentage": 50 },
+      { "typeId": "民生吐槽", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "祝寿",
+    "year": 2005,
+    "laughComposition": [{ "typeId": "语言包袱", "percentage": 50 },
+      { "typeId": "人物反差", "percentage": 50 }]
+  },
+  {
+    "name": "装修",
+    "year": 2005,
+    "laughComposition": [
+      { "typeId": "语言包袱", "percentage": 34 },
+      { "typeId": "人物反差", "percentage": 33 },
+      { "typeId": "民生吐槽", "percentage": 33 }
+    ]
+  },
+  {
+    "name": "男子汉大丈夫",
+    "year": 2005,
+    "laughComposition": [
+      { "typeId": "语言包袱", "percentage": 50 },
+      { "typeId": "人物反差", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "魔力奥运",
+    "year": 2005,
+    "laughComposition": [
+      { "typeId": "夸张视听", "percentage": 50 },
+      { "typeId": "语言包袱", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "十三人顶碗",
+    "year": 2005,
+    "laughComposition": [{ "typeId": "夸张视听", "percentage": 100 }]
+  },
+  {
+    "name": "浪漫的事",
+    "year": 2005,
+    "laughComposition": [{ "typeId": "夸张视听", "percentage": 50 },
+      { "typeId": "语言包袱", "percentage": 50 }]
+  },
+  {
+    "name": "笑谈人生",
+    "year": 2005,
+    "laughComposition": [
+      { "typeId": "语言包袱", "percentage": 50 },
+      { "typeId": "人物反差", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "功夫",
+    "year": 2005,
+    "laughComposition": [
+        { "typeId": "语言包袱", "percentage": 50 },
+        { "typeId": "夸张视听", "percentage": 50 }]
+  },
+  {
+    "name": "汇报咏叹调",
+    "year": 2005,
+    "laughComposition": [
+      { "typeId": "语言包袱", "percentage": 50 },
+      { "typeId": "民生吐槽", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "鸡年说鸡",
+    "year": 2005,
+    "laughComposition": [
+      { "typeId": "语言包袱", "percentage": 50 },
+      { "typeId": "夸张视听", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "跟着媳妇当保姆",
+    "year": 2006,
+    "laughComposition": [
+      { "typeId": "人物反差", "percentage": 50 },
+      { "typeId": "民生吐槽", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "俏夕阳",
+    "year": 2006,
+    "laughComposition": [{ "typeId": "夸张视听", "percentage": 100 }]
+  },
+  {
+    "name": "马大姐外传",
+    "year": 2006,
+    "laughComposition": [
+      { "typeId": "语言包袱", "percentage": 34 },
+      { "typeId": "人物反差", "percentage": 33 },
+      { "typeId": "民生吐槽", "percentage": 33 }
+    ]
+  },
+  {
+    "name": "招聘",
+    "year": 2006,
+    "laughComposition": [
+      { "typeId": "人物反差", "percentage": 50 },
+      { "typeId": "民生吐槽", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "谁让你是优秀",
+    "year": 2006,
+    "laughComposition": [
+      { "typeId": "语言包袱", "percentage": 50 },
+      { "typeId": "人物反差", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "打工幼儿园",
+    "year": 2006,
+    "laughComposition": [
+      { "typeId": "人物反差", "percentage": 50 },
+      { "typeId": "民生吐槽", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "邻居",
+    "year": 2006,
+    "laughComposition": [
+      { "typeId": "语言包袱", "percentage": 50 },
+      { "typeId": "民生吐槽", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "实诚人",
+    "year": 2006,
+    "laughComposition": [
+       { "typeId": "语言包袱", "percentage": 50 },
+      { "typeId": "人物反差", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "说事儿",
+    "year": 2006,
+    "laughComposition": [
+      { "typeId": "语言包袱", "percentage": 34 },
+      { "typeId": "人物反差", "percentage": 33 },
+      { "typeId": "民生吐槽", "percentage": 33 }
+    ]
+  },
+  {
+    "name": "新说绕口令",
+    "year": 2006,
+    "laughComposition": [
+      { "typeId": "语言包袱", "percentage": 100 }
+    ]
+  },
+  {
+    "name": "粑耳朵",
+    "year": 2006,
+    "laughComposition": [
+      { "typeId": "语言包袱", "percentage": 50 },
+      { "typeId": "人物反差", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "咱村里的事",
+    "year": 2007,
+    "laughComposition": [{ "typeId": "语言包袱", "percentage": 100 }]
+  },
+  {
+    "name": "免费电话",
+    "year": 2007,
+    "laughComposition": [
+      { "typeId": "语言包袱", "percentage": 34 },
+      { "typeId": "逻辑乌龙", "percentage": 33 },
+      { "typeId": "民生吐槽", "percentage": 33 }
+    ]
+  },
+  {
+    "name": "俏花旦·抖空竹",
+    "year": 2007,
+    "laughComposition": [{ "typeId": "夸张视听", "percentage": 100 }]
+  },
+  {
+    "name": "送礼",
+    "year": 2007,
+    "laughComposition": [
+      { "typeId": "人物反差", "percentage": 50 },
+      { "typeId": "民生吐槽", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "将爱情进行到底",
+    "year": 2007,
+    "laughComposition": [{ "typeId": "语言包袱", "percentage": 50 },
+      { "typeId": "逻辑乌龙", "percentage": 50 }]
+  },
+  {
+    "name": "考验",
+    "year": 2007,
+    "laughComposition": [
+      { "typeId": "人物反差", "percentage": 50 },
+      { "typeId": "逻辑乌龙", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "回家",
+    "year": 2007,
+    "laughComposition": [{ "typeId": "语言包袱", "percentage": 50 },
+      { "typeId": "逻辑乌龙", "percentage": 50 }]
+  },
+  {
+    "name": "我惯着他",
+    "year": 2007,
+    "laughComposition": [
+      { "typeId": "语言包袱", "percentage": 50 },
+      { "typeId": "民生吐槽", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "策划",
+    "year": 2007,
+    "laughComposition": [
+      { "typeId": "语言包袱", "percentage": 34 },
+      { "typeId": "逻辑乌龙", "percentage": 33 },
+      { "typeId": "民生吐槽", "percentage": 33 }
+    ]
+  },
+  {
+    "name": "假话真情",
+    "year": 2007,
+    "laughComposition": [
+      { "typeId": "语言包袱", "percentage": 50 },
+      { "typeId": "逻辑乌龙", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "街头卫士",
+    "year": 2008,
+    "laughComposition": [
+      { "typeId": "人物反差", "percentage": 50 },
+      { "typeId": "民生吐槽", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "激情爬杆",
+    "year": 2008,
+    "laughComposition": [{ "typeId": "夸张视听", "percentage": 100 }]
+  },
+  {
+    "name": "梦幻家园",
+    "year": 2008,
+    "laughComposition": [
+      { "typeId": "语言包袱", "percentage": 34 },
+      { "typeId": "逻辑乌龙", "percentage": 33 },
+      { "typeId": "民生吐槽", "percentage": 33 }
+    ]
+  },
+  {
+    "name": "疯狂股迷",
+    "year": 2008,
+    "laughComposition": [
+      { "typeId": "人物反差", "percentage": 50 },
+      { "typeId": "民生吐槽", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "公交协奏曲",
+    "year": 2008,
+    "laughComposition": [
+      { "typeId": "人物反差", "percentage": 50 },
+      { "typeId": "民生吐槽", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "逗趣",
+    "year": 2008,
+    "laughComposition": [
+      { "typeId": "夸张视听", "percentage": 100 }
+    ]
+  },
+  {
+    "name": "新闻人物",
+    "year": 2008,
+    "laughComposition": [
+      { "typeId": "人物反差", "percentage": 50 },
+      { "typeId": "民生吐槽", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "花式篮球",
+    "year": 2008,
+    "laughComposition": [{ "typeId": "夸张视听", "percentage": 100 }]
+  },
+  {
+    "name": "开锁",
+    "year": 2008,
+    "laughComposition": [
+      { "typeId": "夸张视听", "percentage": 50 },
+      { "typeId": "逻辑乌龙", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "火炬手",
+    "year": 2008,
+    "laughComposition": [
+      { "typeId": "语言包袱", "percentage": 34 },
+      { "typeId": "人物反差", "percentage": 33 },
+      { "typeId": "夸张视听", "percentage": 33 }
+    ]
+  },
+  {
+    "name": "我有点晕",
+    "year": 2009,
+    "laughComposition": [
+      { "typeId": "语言包袱", "percentage": 50 },
+      { "typeId": "民生吐槽", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "团团圆圆",
+    "year": 2009,
+    "laughComposition": [ { "typeId": "语言包袱", "percentage": 100 }]
+  },
+  {
+    "name": "五官新说",
+    "year": 2009,
+    "laughComposition": [
+      { "typeId": "语言包袱", "percentage": 50 },
+      { "typeId": "人物反差", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "黄豆黄",
+    "year": 2009,
+    "laughComposition": [
+      { "typeId": "逻辑乌龙", "percentage": 50 },
+      { "typeId": "民生吐槽", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "水下除夕夜",
+    "year": 2009,
+    "laughComposition": [{ "typeId": "语言包袱", "percentage": 50 },
+      { "typeId": "人物反差", "percentage": 50 }]
+  },
+  {
+    "name": "暖冬",
+    "year": 2009,
+    "laughComposition": [
+      { "typeId": "人物反差", "percentage": 50 },
+      { "typeId": "逻辑乌龙", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "抖扛",
+    "year": 2009,
+    "laughComposition": [{ "typeId": "夸张视听", "percentage": 100 }]
+  },
+  {
+    "name": "不差钱",
+    "year": 2009,
+    "laughComposition": [
+      { "typeId": "语言包袱", "percentage": 34 },
+      { "typeId": "人物反差", "percentage": 33 },
+      { "typeId": "夸张视听", "percentage": 33 }
+    ]
+  },
+  {
+    "name": "不能让他走",
+    "year": 2010,
+    "laughComposition": [
+      { "typeId": "语言包袱", "percentage": 34 },
+      { "typeId": "逻辑乌龙", "percentage": 33 },
+      { "typeId": "民生吐槽", "percentage": 33 }
+    ]
+  },
+  {
+    "name": "一句话的事儿",
+    "year": 2010,
+    "laughComposition": [
+      { "typeId": "语言包袱", "percentage": 50 },
+      { "typeId": "民生吐槽", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "和谁说相声",
+    "year": 2010,
+    "laughComposition": [
+      { "typeId": "语言包袱", "percentage": 50 },
+      { "typeId": "逻辑乌龙", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "美丽的尴尬",
+    "year": 2010,
+    "laughComposition": [
+      { "typeId": "语言包袱", "percentage": 50 },
+      { "typeId": "民生吐槽", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "我心飞翔",
+    "year": 2010,
+    "laughComposition": [{ "typeId": "语言包袱", "percentage": 50 },
+      { "typeId": "逻辑乌龙", "percentage": 50 }]
+  },
+  {
+    "name": "五十块钱",
+    "year": 2010,
+    "laughComposition": [
+      { "typeId": "人物反差", "percentage": 50 },
+      { "typeId": "民生吐槽", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "壶！壶！壶！",
+    "year": 2010,
+    "laughComposition": [{ "typeId": "夸张视听", "percentage": 100 }]
+  },
+  {
+    "name": "家有毕业生",
+    "year": 2010,
+    "laughComposition": [
+      { "typeId": "人物反差", "percentage": 50 },
+      { "typeId": "民生吐槽", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "捐助",
+    "year": 2010,
+    "laughComposition": [
+      { "typeId": "语言包袱", "percentage": 34 },
+      { "typeId": "人物反差", "percentage": 33 },
+      { "typeId": "民生吐槽", "percentage": 33 }
+    ]
+  },
+  {
+    "name": "大话捧逗",
+    "year": 2010,
+    "laughComposition": [
+      { "typeId": "语言包袱", "percentage": 100 }
+    ]
+  },
+  {
+    "name": "超级大卖场",
+    "year": 2010,
+    "laughComposition": [
+      { "typeId": "语言包袱", "percentage": 50 },
+      { "typeId": "民生吐槽", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "专家指导",
+    "year": 2011,
+    "laughComposition": [
+      { "typeId": "语言包袱", "percentage": 50 },
+      { "typeId": "民生吐槽", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "午夜电话亭",
+    "year": 2011,
+    "laughComposition": [
+      { "typeId": "逻辑乌龙", "percentage": 50 },
+      { "typeId": "人物反差", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "美好时代",
+    "year": 2011,
+    "laughComposition": [
+      { "typeId": "人物反差", "percentage": 50 },
+      { "typeId": "逻辑乌龙", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "晃管",
+    "year": 2011,
+    "laughComposition": [{ "typeId": "夸张视听", "percentage": 100 }]
+  },
+  {
+    "name": "“聪明”丈夫",
+    "year": 2011,
+    "laughComposition": [
+      { "typeId": "人物反差", "percentage": 50 },
+      { "typeId": "民生吐槽", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "独家录制",
+    "year": 2011,
+    "laughComposition": [
+      { "typeId": "语言包袱", "percentage": 50 },
+      { "typeId": "人物反差", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "穿越",
+    "year": 2011,
+    "laughComposition": [
+      { "typeId": "逻辑乌龙", "percentage": 100 }
+    ]
+  },
+  {
+    "name": "还钱",
+    "year": 2011,
+    "laughComposition": [
+      { "typeId": "人物反差", "percentage": 50 },
+      { "typeId": "民生吐槽", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "新房",
+    "year": 2011,
+    "laughComposition": [
+      { "typeId": "语言包袱", "percentage": 50 },
+      { "typeId": "民生吐槽", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "高车踢碗",
+    "year": 2011,
+    "laughComposition": [{ "typeId": "夸张视听", "percentage": 100 }]
+  },
+  {
+    "name": "天网恢恢",
+    "year": 2012,
+    "laughComposition": [
+      { "typeId": "语言包袱", "percentage": 34 },
+      { "typeId": "逻辑乌龙", "percentage": 33 },
+      { "typeId": "民生吐槽", "percentage": 33 }
+    ]
+  },
+  {
+    "name": "荆轲刺秦",
+    "year": 2012,
+    "laughComposition": [
+      { "typeId": "语言包袱", "percentage": 50 },
+      { "typeId": "人物反差", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "今天的幸福",
+    "year": 2012,
+    "laughComposition": [
+      { "typeId": "人物反差", "percentage": 50 },
+      { "typeId": "逻辑乌龙", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "爱的代驾",
+    "year": 2012,
+    "laughComposition": [
+      { "typeId": "人物反差", "percentage": 50 },
+      { "typeId": "民生吐槽", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "面 试",
+    "year": 2012,
+    "laughComposition": [
+      { "typeId": "语言包袱", "percentage": 50 },
+      { "typeId": "人物反差", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "奋 斗",
+    "year": 2012,
+    "laughComposition": [
+      { "typeId": "语言包袱", "percentage": 50 },
+      { "typeId": "民生吐槽", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "想跳就跳",
+    "year": 2013,
+    "laughComposition": [
+      { "typeId": "人物反差", "percentage": 50 },
+      { "typeId": "民生吐槽", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "这事不赖我",
+    "year": 2013,
+    "laughComposition": [
+      { "typeId": "语言包袱", "percentage": 50 },
+      { "typeId": "人物反差", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "大城小事",
+    "year": 2013,
+    "laughComposition": [
+      { "typeId": "人物反差", "percentage": 50 },
+      { "typeId": "民生吐槽", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "你摊上事儿了",
+    "year": 2013,
+    "laughComposition": [
+      { "typeId": "语言包袱", "percentage": 50 },
+      { "typeId": "民生吐槽", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "冰与火",
+    "year": 2013,
+    "laughComposition": [{ "typeId": "夸张视听", "percentage": 100 }]
+  },
+  {
+    "name": "今天的幸福 2",
+    "year": 2013,
+    "laughComposition": [
+      { "typeId": "人物反差", "percentage": 50 },
+      { "typeId": "逻辑乌龙", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "魔琴",
+    "year": 2013,
+    "laughComposition": [{ "typeId": "夸张视听", "percentage": 100 }]
+  },
+  {
+    "name": "指尖与足尖",
+    "year": 2013,
+    "laughComposition": [{ "typeId": "夸张视听", "percentage": 100 }]
+  },
+  {
+    "name": "东西南北大拜年",
+    "year": 2013,
+    "laughComposition": [{ "typeId": "语言包袱", "percentage": 100 }]
+  },
+  {
+    "name": "群发的我不回",
+    "year": 2014,
+    "laughComposition": [
+      { "typeId": "语言包袱", "percentage": 100 }
+    ]
+  },
+  {
+    "name": "扰民了您",
+    "year": 2014,
+    "laughComposition": [
+      { "typeId": "人物反差", "percentage": 50 },
+      { "typeId": "民生吐槽", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "扶不扶",
+    "year": 2014,
+    "laughComposition": [
+        { "typeId": "语言包袱", "percentage": 34 },
+      { "typeId": "人物反差", "percentage": 33 },
+      { "typeId": "民生吐槽", "percentage": 33 }
+    ]
+  },
+  {
+    "name": "说你什么好",
+    "year": 2014,
+    "laughComposition": [
+      { "typeId": "语言包袱", "percentage": 50 },
+      { "typeId": "逻辑乌龙", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "我就这么个人",
+    "year": 2014,
+    "laughComposition": [
+      { "typeId": "人物反差", "percentage": 50 },
+      { "typeId": "民生吐槽", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "魔幻三兄弟",
+    "year": 2014,
+    "laughComposition": [
+      { "typeId": "夸张视听", "percentage": 100 }
+    ]
+  },
+  {
+    "name": "人到礼到",
+    "year": 2014,
+    "laughComposition": [
+      { "typeId": "语言包袱", "percentage": 50 },
+      { "typeId": "人物反差", "percentage": 50 }
+    ]
+  },
+    {
+        "name": "喜乐街",
+        "year": 2015,
+        "laughComposition": [
+            { "typeId": "语言包袱", "percentage": 34 },
+            { "typeId": "人物反差", "percentage": 33 },
+            { "typeId": "逻辑乌龙", "percentage": 33 }
+        ]
+    },
+    {
+        "name": "明星反串闹新春",
+        "year": 2015,
+        "laughComposition": [
+            { "typeId": "人物反差", "percentage": 50 },
+            { "typeId": "夸张视听", "percentage": 50 }
+        ]
+    },
+    {
+        "name": "最炫小苹果",
+        "year": 2015,
+        "laughComposition": [
+            { "typeId": "语言包袱", "percentage": 50 },
+            { "typeId": "夸张视听", "percentage": 50 }
+        ]
+    },
+    {
+        "name": "我忍不了",
+        "year": 2015,
+        "laughComposition": [
+            { "typeId": "语言包袱", "percentage": 34 },
+            { "typeId": "民生吐槽", "percentage": 33 },
+            { "typeId": "夸张视听", "percentage": 33 }
+        ]
+    },
+    {
+        "name": "车站奇遇",
+        "year": 2015,
+        "laughComposition": [
+            { "typeId": "语言包袱", "percentage": 34 },
+            { "typeId": "人物反差", "percentage": 33 },
+            { "typeId": "逻辑乌龙", "percentage": 33 }
+        ]
+    },
+    {
+        "name": "小棉袄",
+        "year": 2015,
+        "laughComposition": [
+            { "typeId": "语言包袱", "percentage": 50 },
+            { "typeId": "民生吐槽", "percentage": 50 }
+        ]
+    },
+    {
+        "name": "投其所好",
+        "year": 2015,
+        "laughComposition": [
+            { "typeId": "语言包袱", "percentage": 34 },
+            { "typeId": "逻辑乌龙", "percentage": 33 },
+            { "typeId": "民生吐槽", "percentage": 33 }
+        ]
+    },
+    {
+        "name": "高手在民间",
+        "year": 2015,
+        "laughComposition": [
+            { "typeId": "人物反差", "percentage": 100 }
+        ]
+    },
+    {
+        "name": "一定找到你",
+        "year": 2015,
+        "laughComposition": [
+            { "typeId": "逻辑乌龙", "percentage": 100 }
+        ]
+    },
+    {
+        "name": "社区民警于三快",
+        "year": 2015,
+        "laughComposition": [
+            { "typeId": "语言包袱", "percentage": 33.33 },
+            { "typeId": "民生吐槽", "percentage": 33.33 },
+            { "typeId": "人物反差", "percentage": 33.34 }
+        ]
+    },
+    {
+        "name": "圈子",
+        "year": 2015,
+        "laughComposition": [
+            { "typeId": "民生吐槽", "percentage": 50 },
+            { "typeId": "语言包袱", "percentage": 50 }
+        ]
+    },
+    {
+        "name": "幸福家家有",
+        "year": 2015,
+        "laughComposition": [
+            { "typeId": "语言包袱", "percentage": 50 },
+            { "typeId": "民生吐槽", "percentage": 50 }
+        ]
+    },
+    {
+        "name": "这不是我的",
+        "year": 2015,
+        "laughComposition": [
+            { "typeId": "逻辑乌龙", "percentage": 50 },
+            { "typeId": "人物反差", "percentage": 50 }
+        ]
+    },
+  {
+    "name": "快乐老爸",
+    "year": 2016,
+    "laughComposition": [
+      { "typeId": "人物反差", "percentage": 50 },
+      { "typeId": "民生吐槽", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "放心吧",
+    "year": 2016,
+    "laughComposition": [
+      { "typeId": "语言包袱", "percentage": 34 },
+      { "typeId": "逻辑乌龙", "percentage": 33 },
+      { "typeId": "民生吐槽", "percentage": 33 }
+    ]
+  },
+  {
+    "name": "快递小乔",
+    "year": 2016,
+    "laughComposition": [
+      { "typeId": "人物反差", "percentage": 50 },
+      { "typeId": "民生吐槽", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "是谁呢",
+    "year": 2016,
+    "laughComposition": [
+         { "typeId": "语言包袱", "percentage": 50 },
+      { "typeId": "逻辑乌龙", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "网购奇遇",
+    "year": 2016,
+    "laughComposition": [
+      { "typeId": "语言包袱", "percentage": 34 },
+      { "typeId": "人物反差", "percentage": 33 },
+      { "typeId": "民生吐槽", "percentage": 33 }
+    ]
+  },
+  {
+    "name": "老伴",
+    "year": 2017,
+    "laughComposition": [
+      { "typeId": "语言包袱", "percentage": 50 },
+      { "typeId": "人物反差", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "姥说",
+    "year": 2017,
+    "laughComposition": [
+      { "typeId": "语言包袱", "percentage": 50 },
+      { "typeId": "民生吐槽", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "真情永驻",
+    "year": 2017,
+    "laughComposition": [
+      { "typeId": "人物反差", "percentage": 50 },
+      { "typeId": "民生吐槽", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "新虎口遐想",
+    "year": 2017,
+    "laughComposition": [
+      { "typeId": "语言包袱", "percentage": 50 },
+      { "typeId": "民生吐槽", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "一个女婿半个儿",
+    "year": 2017,
+    "laughComposition": [
+      { "typeId": "人物反差", "percentage": 50 },
+      { "typeId": "民生吐槽", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "信任",
+    "year": 2017,
+    "laughComposition": [
+      { "typeId": "逻辑乌龙", "percentage": 50 },
+      { "typeId": "民生吐槽", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "阿峰其人",
+    "year": 2017,
+    "laughComposition": [
+         { "typeId": "语言包袱", "percentage": 50 },
+      { "typeId": "人物反差", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "真假老师",
+    "year": 2018,
+    "laughComposition": [
+        { "typeId": "语言包袱", "percentage": 34 },
+      { "typeId": "人物反差", "percentage": 33 },
+      { "typeId": "逻辑乌龙", "percentage": 33 }
+    ]
+  },
+  {
+    "name": "学车",
+    "year": 2018,
+    "laughComposition": [
+        { "typeId": "语言包袱", "percentage": 34 },
+      { "typeId": "人物反差", "percentage": 33 },
+      { "typeId": "民生吐槽", "percentage": 33 }
+    ]
+  },
+  {
+    "name": "提意见",
+    "year": 2018,
+    "laughComposition": [
+      { "typeId": "语言包袱", "percentage": 50 },
+      { "typeId": "民生吐槽", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "我爱诗词",
+    "year": 2018,
+    "laughComposition": [
+      { "typeId": "语言包袱", "percentage": 100 }
+    ]
+  },
+  {
+    "name": "单车问答",
+    "year": 2018,
+    "laughComposition": [
+      { "typeId": "语言包袱", "percentage": 50 },
+      { "typeId": "民生吐槽", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "不同凡响",
+    "year": 2018,
+    "laughComposition": [
+      { "typeId": "夸张视听", "percentage": 100 }
+    ]
+  },
+  {
+    "name": "为您服务",
+    "year": 2018,
+    "laughComposition": [
+      { "typeId": "人物反差", "percentage": 50 },
+      { "typeId": "民生吐槽", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "百狮报喜贺新春",
+    "year": 2019,
+    "laughComposition": [{ "typeId": "夸张视听", "percentage": 100 }]
+  },
+  {
+    "name": "妙言趣语",
+    "year": 2019,
+    "laughComposition": [
+      { "typeId": "语言包袱", "percentage": 100 }
+    ]
+  },
+  {
+    "name": "站台",
+    "year": 2019,
+    "laughComposition": [
+        { "typeId": "语言包袱", "percentage": 34 },
+      { "typeId": "人物反差", "percentage": 33 },
+      { "typeId": "民生吐槽", "percentage": 33 }
+    ]
+  },
+  {
+    "name": "办公室的故事",
+    "year": 2019,
+    "laughComposition": [
+      { "typeId": "人物反差", "percentage": 50 },
+      { "typeId": "民生吐槽", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "“儿子”来了",
+    "year": 2019,
+    "laughComposition": [
+      { "typeId": "人物反差", "percentage": 34 },
+      { "typeId": "逻辑乌龙", "percentage": 33 },
+      { "typeId": "民生吐槽", "percentage": 33 }
+    ]
+  },
+  {
+    "name": "魔壶",
+    "year": 2019,
+    "laughComposition": [{ "typeId": "逻辑乌龙", "percentage": 100 }]
+  },
+  {
+    "name": "占位子",
+    "year": 2019,
+    "laughComposition": [
+      { "typeId": "人物反差", "percentage": 50 },
+      { "typeId": "民生吐槽", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "演戏给你看",
+    "year": 2019,
+    "laughComposition": [
+      { "typeId": "人物反差", "percentage": 50 },
+      { "typeId": "民生吐槽", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "啼笑皆非",
+    "year": 2019,
+    "laughComposition": [
+      { "typeId": "逻辑乌龙", "percentage": 100 }
+    ]
+  },
+  {
+    "name": "争奇斗技",
+    "year": 2019,
+    "laughComposition": [{ "typeId": "夸张视听", "percentage": 100 }]
+  },
+  {
+    "name": "爱的代驾",
+    "year": 2019,
+    "laughComposition": [
+      { "typeId": "人物反差", "percentage": 50 },
+      { "typeId": "民生吐槽", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "生活趣谈",
+    "year": 2020,
+    "laughComposition": [
+      { "typeId": "语言包袱", "percentage": 50 },
+      { "typeId": "民生吐槽", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "过年迪斯科",
+    "year": 2020,
+    "laughComposition": [{ "typeId": "夸张视听", "percentage": 100 }]
+  },
+  {
+    "name": "婆婆妈妈",
+    "year": 2020,
+    "laughComposition": [
+      { "typeId": "人物反差", "percentage": 50 },
+      { "typeId": "民生吐槽", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "走过场",
+    "year": 2020,
+    "laughComposition": [
+      { "typeId": "人物反差", "percentage": 50 },
+      { "typeId": "民生吐槽", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "风雪饺子情",
+    "year": 2020,
+    "laughComposition": [
+      { "typeId": "人物反差", "percentage": 50 },
+      { "typeId": "逻辑乌龙", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "机场姐妹花",
+    "year": 2020,
+    "laughComposition": [
+      { "typeId": "人物反差", "percentage": 50 },
+      { "typeId": "民生吐槽", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "父母爱情",
+    "year": 2020,
+    "laughComposition": [{ "typeId": "语言包袱", "percentage": 50 },
+      { "typeId": "夸张视听", "percentage": 50 }]
+  },
+  {
+    "name": "喜欢你喜欢我",
+    "year": 2020,
+    "laughComposition": [
+      { "typeId": "人物反差", "percentage": 50 },
+      { "typeId": "逻辑乌龙", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "快乐其实很简单",
+    "year": 2020,
+    "laughComposition": [
+      { "typeId": "语言包袱", "percentage": 50 },
+      { "typeId": "民生吐槽", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "年三十的歌",
+    "year": 2021,
+    "laughComposition": [
+      { "typeId": "语言包袱", "percentage": 50 },
+      { "typeId": "民生吐槽", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "牛起来",
+    "year": 2021,
+    "laughComposition": [{ "typeId": "夸张视听", "percentage": 100 }]
+  },
+  {
+    "name": "一波三折",
+    "year": 2021,
+    "laughComposition": [
+      { "typeId": "人物反差", "percentage": 50 },
+      { "typeId": "逻辑乌龙", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "阳台",
+    "year": 2021,
+    "laughComposition": [
+        { "typeId": "语言包袱", "percentage": 34 },
+      { "typeId": "人物反差", "percentage": 33 },
+      { "typeId": "民生吐槽", "percentage": 33 }
+    ]
+  },
+  {
+    "name": "大扫除",
+    "year": 2021,
+    "laughComposition": [
+        { "typeId": "语言包袱", "percentage": 34 },
+      { "typeId": "人物反差", "percentage": 33 },
+      { "typeId": "民生吐槽", "percentage": 33 }
+    ]
+  },
+  {
+    "name": "如此家长",
+    "year": 2021,
+    "laughComposition": [
+      { "typeId": "人物反差", "percentage": 50 },
+      { "typeId": "民生吐槽", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "开往春天的幸福",
+    "year": 2021,
+    "laughComposition": [
+        { "typeId": "语言包袱", "percentage": 34 },
+      { "typeId": "人物反差", "percentage": 33 },
+      { "typeId": "民生吐槽", "percentage": 33 }
+    ]
+  },
+  {
+    "name": "每逢佳节被催婚",
+    "year": 2021,
+    "laughComposition": [
+      { "typeId": "人物反差", "percentage": 50 },
+      { "typeId": "民生吐槽", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "叫卖",
+    "year": 2021,
+    "laughComposition": [
+      { "typeId": "语言包袱", "percentage": 50 },
+      { "typeId": "夸张视听", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "喜从天降",
+    "year": 2021,
+    "laughComposition": [
+      { "typeId": "逻辑乌龙", "percentage": 100 }
+    ]
+  },
+  {
+    "name": "父与子",
+    "year": 2022,
+    "laughComposition": [
+      { "typeId": "人物反差", "percentage": 50 },
+      { "typeId": "民生吐槽", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "还不还",
+    "year": 2022,
+    "laughComposition": [
+      { "typeId": "语言包袱", "percentage": 34 },
+      { "typeId": "人物反差", "percentage": 33 },
+      { "typeId": "民生吐槽", "percentage": 33 }
+    ]
+  },
+  {
+    "name": "喜上加喜",
+    "year": 2022,
+    "laughComposition": [
+      { "typeId": "语言包袱", "percentage": 50 },
+      { "typeId": "人物反差", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "快乐气氛组",
+    "year": 2022,
+    "laughComposition": [
+      { "typeId": "夸张视听", "percentage": 100 }
+    ]
+  },
+  {
+    "name": "乳虎啸春",
+    "year": 2022,
+    "laughComposition": [{ "typeId": "夸张视听", "percentage": 100 }]
+  },
+  {
+    "name": "欢乐方言",
+    "year": 2022,
+    "laughComposition": [
+      { "typeId": "语言包袱", "percentage": 100 }
+    ]
+  },
+  {
+    "name": "休息区的故事",
+    "year": 2022,
+    "laughComposition": [
+      { "typeId": "人物反差", "percentage": 50 },
+      { "typeId": "民生吐槽", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "像不像",
+    "year": 2022,
+    "laughComposition": [
+      { "typeId": "人物反差", "percentage": 50 },
+      { "typeId": "夸张视听", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "火锅奏鸣曲",
+    "year": 2022,
+    "laughComposition": [{ "typeId": "夸张视听", "percentage": 100 }]
+  },
+  {
+    "name": "我的变、变、变",
+    "year": 2023,
+    "laughComposition": [{ "typeId": "夸张视听", "percentage": 100 }]
+  },
+  {
+    "name": "初见照相馆",
+    "year": 2023,
+    "laughComposition": [
+      { "typeId": "人物反差", "percentage": 50 },
+      { "typeId": "逻辑乌龙", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "马上到",
+    "year": 2023,
+    "laughComposition": [
+      { "typeId": "人物反差", "percentage": 50 },
+      { "typeId": "民生吐槽", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "坑",
+    "year": 2023,
+    "laughComposition": [
+      { "typeId": "语言包袱", "percentage": 34 },
+      { "typeId": "人物反差", "percentage": 33 },
+      { "typeId": "民生吐槽", "percentage": 33 }
+    ]
+  },
+  {
+    "name": "上热搜了",
+    "year": 2023,
+    "laughComposition": [
+      { "typeId": "语言包袱", "percentage": 50 },
+      { "typeId": "民生吐槽", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "别开生面",
+    "year": 2024,
+    "laughComposition": [{ "typeId": "夸张视听", "percentage": 100 }]
+  },
+  {
+    "name": "那能一样吗",
+    "year": 2024,
+    "laughComposition": [
+        { "typeId": "人物反差", "percentage": 50 },
+      { "typeId": "语言包袱", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "导演的“心事”",
+    "year": 2024,
+    "laughComposition": [
+      { "typeId": "人物反差", "percentage": 50 },
+      { "typeId": "逻辑乌龙", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "开不了口",
+    "year": 2024,
+    "laughComposition": [
+      { "typeId": "语言包袱", "percentage": 50 },
+      { "typeId": "人物反差", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "寒舍不寒",
+    "year": 2024,
+    "laughComposition": [
+      { "typeId": "语言包袱", "percentage": 50 },
+      { "typeId": "民生吐槽", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "咱家来客了",
+    "year": 2024,
+    "laughComposition": [
+      { "typeId": "人物反差", "percentage": 50 },
+      { "typeId": "民生吐槽", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "跃龙门",
+    "year": 2024,
+    "laughComposition": [{ "typeId": "夸张视听", "percentage": 100 }]
+  },
+  {
+    "name": "晒share",
+    "year": 2024,
+    "laughComposition": [
+      { "typeId": "语言包袱", "percentage": 100 }
+    ]
+  },
+  {
+    "name": "秧BOT",
+    "year": 2025,
+    "laughComposition": [{ "typeId": "夸张视听", "percentage": 100 }]
+  },
+  {
+    "name": "我们一起说相声",
+    "year": 2025,
+    "laughComposition": [
+      { "typeId": "语言包袱", "percentage": 100 }
+    ]
+  },
+  {
+    "name": "笔走龙蛇",
+    "year": 2025,
+    "laughComposition": [{ "typeId": "夸张视听", "percentage": 100 }]
+  },
+  {
+    "name": "花架子",
+    "year": 2025,
+    "laughComposition": [
+      { "typeId": "语言包袱", "percentage": 100 }
+    ]
+  },
+  {
+    "name": "金龟婿",
+    "year": 2025,
+    "laughComposition": [
+      { "typeId": "人物反差", "percentage": 50 },
+      { "typeId": "民生吐槽", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "点点关注",
+    "year": 2025,
+    "laughComposition": [
+        { "typeId": "语言包袱", "percentage": 50 },
+      { "typeId": "民生吐槽", "percentage": 50 }
+    ]
+  },
+  {
+    "name": "小明一家",
+    "year": 2025,
+    "laughComposition": [
+      { "typeId": "人物反差", "percentage": 50 },
+      { "typeId": "民生吐槽", "percentage": 50 }
+    ]
+  }
+
+]
