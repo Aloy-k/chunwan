@@ -29,7 +29,9 @@ export const VIDEOS: VideoData[] = [
     id: 'skit-zlr', 
     title: '昨天今天明天 (赵本山/宋丹丹/崔永元)', 
     type: '小品', 
-    videoUrl: './assets/yesterdaytodaytomorrow.mp4', 
+    //videoUrl: './assets/yesterdaytodaytomorrow.mp4', 
+    // 🟢 现在的写法 (粘贴你刚才复制的链接)：
+    videoUrl: 'https://github.com/Aloy-k/final1/releases/download/v1.0/yesterdaytodaytomorrow.mp4',
     poster: 'https://images.unsplash.com/photo-1514306191717-452ec28c7814?w=800', 
     humorPoints: [
       { 
