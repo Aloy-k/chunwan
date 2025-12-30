@@ -111,7 +111,8 @@ export const VIDEOS: VideoData[] = [
     id: 'magic-lq', 
     title: '守岁共此时 (刘谦/尼格买提)', 
     type: '魔术', 
-    videoUrl: './assets/magic.mp4', 
+    //videoUrl: './assets/magic.mp4', 
+    videoUrl: 'https://github.com/Aloy-k/final1/releases/download/v1.0/magic.mp4',
     poster: 'https://images.unsplash.com/photo-1514306191717-452ec28c7814?w=800', 
     humorPoints: [
       { 
