@@ -1,7 +1,8 @@
 
 import { VideoData, EvolutionProgram, HumorType, Performer, Relation, MemeTrend } from './types';
 import Papa from 'papaparse'; // 需要在这里引入
-import rawEvolutionData from './data/xiaodian_type.json';
+import rawEvolutionData from './public/data/xiaodian_type.json';
+import.meta.env.BASE_URL
 
 
 export const HUMOR_COLORS: Record<HumorType, string> = {
@@ -16,10 +17,16 @@ export const HUMOR_COLORS: Record<HumorType, string> = {
 
 // 1. 定义 ID 和 CSV 文件路径的映射关系
 // 请确保你的 public/data 文件夹下有这三个文件，名字要对应上
+// const CSV_FILES: Record<string, string> = {
+//   'nigemaiti-fail': '/data/nige.csv',      // 尼格买提的数据文件
+//   'baiyun-heitu': '/data/baiyun.csv',      // 白云黑土的数据文件
+//   'gongting-yuyejiu': '/data/wine.csv'     // 宫廷玉液酒的数据文件
+// };
+
 const CSV_FILES: Record<string, string> = {
-  'nigemaiti-fail': '/data/nige.csv',      // 尼格买提的数据文件
-  'baiyun-heitu': '/data/baiyun.csv',      // 白云黑土的数据文件
-  'gongting-yuyejiu': '/data/wine.csv'     // 宫廷玉液酒的数据文件
+  'nigemaiti-fail': `${import.meta.env.BASE_URL}data/nige.csv`,
+  'baiyun-heitu': `${import.meta.env.BASE_URL}data/baiyun.csv`,
+  'gongting-yuyejiu': `${import.meta.env.BASE_URL}data/wine.csv`
 };
 
 const HUMOR_TYPES: HumorType[] = ['语言包袱', '人物反差', '逻辑乌龙', '民生吐槽', '夸张视听', '无'];
