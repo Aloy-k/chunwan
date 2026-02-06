@@ -398,7 +398,7 @@ const InheritanceNetwork: React.FC = () => {
   const [selectedActorId, setSelectedActorId] = useState<string | null>(null);
   const [hoveredActorId, setHoveredActorId] = useState<string | null>(null);
   const [selectedLinkId, setSelectedLinkId] = useState<string | null>(null);
-  const [zoom, setZoom] = useState(0.75);
+  const [zoom, setZoom] = useState(0.65);
   const [offset, setOffset] = useState({ x: 0, y: 0 });
 
   // 1. 数据解析逻辑
@@ -720,7 +720,7 @@ const InheritanceNetwork: React.FC = () => {
             <button onClick={() => setZoom(z => Math.min(z + 0.1, 2.0))} className="p-2 hover:bg-white/10 rounded-lg text-white/40 hover:text-white transition-all"><ZoomIn size={16} /></button>
          </div>
          <div className="h-4 w-[1px] bg-white/10"></div>
-         <button onClick={() => { setZoom(0.75); setOffset({x:0, y:0}); }} className="flex items-center gap-2 p-2 hover:bg-white/10 rounded-lg text-white/40 hover:text-white transition-all">
+         <button onClick={() => { setZoom(0.65); setOffset({x:0, y:0}); }} className="flex items-center gap-2 p-2 hover:bg-white/10 rounded-lg text-white/40 hover:text-white transition-all">
             <Maximize2 size={16} /><span className="text-[9px] font-black uppercase tracking-widest">Reset</span>
          </button>
       </div>

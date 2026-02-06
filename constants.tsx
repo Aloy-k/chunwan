@@ -1,7 +1,7 @@
 
 import { VideoData, EvolutionProgram, HumorType, Performer, Relation, MemeTrend } from './types';
 import Papa from 'papaparse'; // 需要在这里引入
-import rawEvolutionData from './public/data/xiaodian_type.json';
+import rawEvolutionData from './data/xiaodian_type.json';
 import.meta.env.BASE_URL
 
 
@@ -36,9 +36,9 @@ export const VIDEOS: VideoData[] = [
     id: 'skit-zlr', 
     title: '昨天今天明天 (赵本山/宋丹丹/崔永元)', 
     type: '小品', 
-    //videoUrl: './assets/yesterdaytodaytomorrow.mp4', 
+    videoUrl: 'https://chunwanhhh.oss-cn-hongkong.aliyuncs.com/yesterdaytodaytomorrow.mp4', 
     // 🟢 现在的写法 (粘贴你刚才复制的链接)：
-    videoUrl: 'https://github.com/Aloy-k/final1/releases/download/v1.0/yesterdaytodaytomorrow.mp4',
+    //videoUrl: 'https://github.com/Aloy-k/final1/releases/download/v1.0/yesterdaytodaytomorrow.mp4',
     poster: 'https://images.unsplash.com/photo-1514306191717-452ec28c7814?w=800', 
     humorPoints: [
       { 
@@ -78,8 +78,8 @@ export const VIDEOS: VideoData[] = [
     id: 'crosstalk-mj', 
     title: '宇宙牌香烟 (马季)', 
     type: '相声', 
-    //videoUrl: './assets/cigarette.mp4', 
-    videoUrl: 'https://github.com/Aloy-k/final1/releases/download/v1.0/cigarette.mp4',
+    videoUrl: 'https://chunwanhhh.oss-cn-hongkong.aliyuncs.com/cigarette.mp4', 
+    //videoUrl: 'https://github.com/Aloy-k/final1/releases/download/v1.0/cigarette.mp4',
     poster: 'https://images.unsplash.com/photo-1514306191717-452ec28c7814?w=800', 
     humorPoints: [
       { 
@@ -118,8 +118,8 @@ export const VIDEOS: VideoData[] = [
     id: 'magic-lq', 
     title: '守岁共此时 (刘谦/尼格买提)', 
     type: '魔术', 
-    //videoUrl: './assets/magic.mp4', 
-    videoUrl: 'https://github.com/Aloy-k/final1/releases/download/v1.0/magic.mp4',
+    videoUrl: 'https://chunwanhhh.oss-cn-hongkong.aliyuncs.com/magic.mp4', 
+    //videoUrl: 'https://github.com/Aloy-k/final1/releases/download/v1.0/magic.mp4',
     poster: 'https://images.unsplash.com/photo-1514306191717-452ec28c7814?w=800', 
     humorPoints: [
       { 
@@ -201,12 +201,97 @@ export const RELATIONS: Relation[] = [
 ];
 
 export const INITIAL_TREND_DATA: MemeTrend[] = [
+  // 案例一：此时无声胜有声，当代年轻人的"嘴替"——沈腾 / 郝建
+  {
+    id: 'haojian-shenteng',
+    hashtag: '此时无声胜有声，当代年轻人的"嘴替"',
+    period: '2012 - 至今',
+    totalData: 0,
+    points: [],
+    visualHistory: [
+      { offset: 0, imageUrl: './assets/image1.jpg', label: '诞生原点：那个名字叫"郝建"的男人' },
+      { offset: 25, imageUrl: './assets/image2.jpg', label: '爆发与舆论：从台词到"JPG"的进化' },
+      { offset: 50, imageUrl: './assets/image3.jpg', label: '融入生活：长在微信里的男人' },
+      { offset: 75, imageUrl: './assets/image4.jpg', label: '文化注脚：丧与爱的双重奏' }
+    ],
+    storySteps: [
+      {
+        title: '诞生原点：那个名字叫“郝建”的男人',
+        body: '2012年，除夕夜。一个穿着红毛衣、名叫“郝建”的青年登场。此时观众还不知道，这个满脸写着"纠结"和"小聪明"的角色，将在未来十年统治中国互联网的笑点。他不是英雄，他就像是我们身边那个有点怂、有点贱、但又真实可爱的朋友。',
+        imageUrls: ['./assets/step1-1.gif', './assets/step1-2.gif']
+      },
+      {
+        title: '爆发与舆论：从台词到“JPG”的进化',
+        body: '2014年，演技的“核爆”。当“郝建”在《扶不扶》中夸张倒地的那一刻，互联网沸腾了。人们不再满足于复述他的台词，而是开始截取他的表情。在社交媒体刚刚兴起的年代，沈腾那张“长在笑点上“的脸，比任何文字都能精准传达”尴尬“、“无奈”和“无语”。',
+        specialComponent: 'memeChat',
+        imageUrls: ['./assets/step2-1.jpg', './assets/step2-2.jpg', './assets/step2-3.jpg']
+      },
+      {
+        title: '融入生活：长在微信里的男人',
+        body: '他不再演小品，他在演你的生活。慢慢地，大家忘记了"郝建"这个名字，只记住了沈腾的脸。不想上班时，发个沈腾"瘫痪"；遇到杠精时，发个沈腾"冷笑"。他突破了舞台的第四堵墙，成为了中国年轻人社交礼仪中的"情绪硬通货"。在那些无法用文字化解的尴尬时刻，一张沈腾表情包，就是最好的回应。',
+        specialComponent: 'memeReveal',
+        // 只列实际存在的图片路径，组件会循环使用以填满 35 格（避免裂图）
+        imageUrls: [
+          './assets/step3-01.jpg', './assets/step3-02.jpg', './assets/step3-03.jpg', './assets/step3-04.gif', './assets/step3-05.gif',
+          './assets/step3-06.jpg', './assets/step3-07.gif', './assets/step3-08.jpg', './assets/step3-09.gif', './assets/step3-10.gif',
+          './assets/step3-11.gif', './assets/step3-12.gif', './assets/step3-13.gif', './assets/step3-14.gif', './assets/step3-15.gif'
+        ]
+      },
+      {
+        title: '文化注脚：丧与爱的双重奏',
+        body: '沈腾的流行，折射了当代青年"人间清醒"的生活态度。我们用他的表情包自嘲，解构生活的压力，用戏谑的方式表达"虽丧尤爱"的生命力。他不仅仅是一个喜剧演员，他是这个焦虑时代里，大众给自己找的一个情感宣泄口。',
+        specialComponent: 'memeDanmaku',
+        imageUrl: './assets/step4.jpg'
+      }
+    ]
+  },
+  // 案例二（全网互动与博文量第一格）：沿用 chunwan-2 第三篇章第三个案例的数据
+  {
+    id: 'gongting-yuyejiu',
+    hashtag: '#眼睛一闭一睁，一天就过去了',
+    period: '2009.01 - 2025.12',
+    totalData: 0,
+    points: [],
+    visualHistory: [
+      { offset: 0, imageUrl: './assets/3image1.jpg', label: '春晚节目演绎' },
+      { offset: 20, imageUrl: './assets/3image2.jpg', label: '融入民生生活' },
+      { offset: 40, imageUrl: './assets/3image3.jpg', label: '表情包融梗创作' }
+    ],
+    storySteps: [
+      {
+        title: '诞生原点：一段洗脑的旋律',
+        body: '1996年，全民RAP。"宫廷玉液酒，一百八一杯"。在那个没有互联网的年代，赵丽蓉老师用这段唐山味儿的Rap，通知了全国的街头巷尾。这颗文化的种子，在除夕夜被买下，然后静静地沉睡在一代人的记忆深处。',
+        specialComponent: 'secretCode',
+        // 《打工奇遇》视频：请将本地 mp4 放在 chunwan/assets/dagongqiyu.mp4。素材可自央视网或 B 站下载后裁剪使用，例如：央视 https://v.cctv.com/2023/01/27/VIDEqCqj145Tqlnkp6KugLOX230127.shtml 或 B站 https://www.bilibili.com/video/BV1H24y1z7pC
+        videoUrl: 'https://chunwanhhh.oss-cn-hongkong.aliyuncs.com/dagongqiyu.mp4?Expires=1770415504&OSSAccessKeyId=TMP.3Knu1bSfHYm2Ubg3zU86TbWEBtoohYSEnzUSAn43tBLML3qAcGmcyzQd6kSUo1pHXvhXEaZ49BGpQBJZqkAv81hZBXrWcD&Signature=ruoQYnb2Wvqo8b2Qw89tMMdeYR8%3D'
+      },
+      {
+        title: '沉淀：被折叠的时光',
+        body: '记忆并未消失，只是在等待唤醒。二十三年过去了，赵丽蓉老师已故去。这段旋律似乎成了尘封的往事。但谁也没想到，它已经内化为一种"集体肌肉记忆"，只等待一个契机，便能掀起惊涛骇浪。',
+        specialComponent: 'timeMachine',
+        tvBackgroundUrl: './assets/step2-tv.jpg',
+        phoneBackgroundUrl: './assets/step2-phone.jpg'
+      },
+      {
+        title: '再次爆发：2019大型"抓特务"现场',
+        body: '2019年8月，暗号激活。当一名自称"北方人"的境外可疑账号在微博挑拨离间时，中国网友没有讲大道理，而是抛出了二十年前的歌词。"宫廷玉液酒？"对方的茫然回答，瞬间暴露了其伪装。全网沸腾了，这不是简单的网络骂战，这是一场基于共同文化背景的"降维打击"。',
+        specialComponent: 'introVideo',
+        videoUrl: 'https://chunwanhhh.oss-cn-hongkong.aliyuncs.com/step3-laworder.mp4?Expires=1770415504&OSSAccessKeyId=TMP.3Knu1bSfHYm2Ubg3zU86TbWEBtoohYSEnzUSAn43tBLML3qAcGmcyzQd6kSUo1pHXvhXEaZ49BGpQBJZqkAv81hZBXrWcD&Signature=pVRLLkaKonGBs5VN3udVmkKq0PA%3D' // 请将 Law&Order 春晚版视频放在 chunwan/assets/step3-laworder.mp4
+      },
+      {
+        title: '文化注脚：身份的防伪水印',
+        body: '中国人的DNA验证码。"宫廷玉液酒"不再只是一句台词，它演变成了一种Shibboleth。它证明了我们拥有共同的成长背景，共同的欢笑与泪水。在这个虚拟的网络世界里，这句暗号让我们确认了彼此的身份，感受到了一种前所未有的文化安全感与民族凝聚力。',
+        specialComponent: 'lightPoints180'
+      }
+    ]
+  },
+  // 以下保留用于传播数据可视化（若有 CSV 则填充）
   {
     id: 'nigemaiti-fail',
     hashtag: '#尼格买提魔术失败',
     period: '2024.02 - 2025.12',
-    totalData: 0, 
-    points: [], // 等待读取 nige.csv 填充
+    totalData: 0,
+    points: [],
     visualHistory: [
       { offset: 0, imageUrl: './assets/image4.jpg', label: '舞台穿帮：原始画面' },
       { offset: 12, imageUrl: './assets/image2.jpg', label: '被提及' },
@@ -220,23 +305,11 @@ export const INITIAL_TREND_DATA: MemeTrend[] = [
     hashtag: '#我叫白云我叫黑土',
     period: '2015.01 - 2025.12',
     totalData: 0,
-    points: [], // 等待读取 baiyun.csv 填充
+    points: [],
     visualHistory: [
       { offset: 0, imageUrl: './assets/2image1.jpg', label: '节目经典塑造，定义春晚CP' },
       { offset: 20, imageUrl: './assets/2image2.jpg', label: '社会热梗演变' },
       { offset: 50, imageUrl: './assets/2image3.jpg', label: '社会二创，笑点循环' }
-    ]
-  },
-  {
-    id: 'gongting-yuyejiu',
-    hashtag: '#眼睛一闭一睁，一天就过去了',
-    period: '2009.01 - 2025.12',
-    totalData: 0,
-    points: [], // 等待读取 wine.csv 填充
-    visualHistory: [
-      { offset: 0, imageUrl: './assets/3image1.jpg', label: '春晚节目演绎' },
-      { offset: 20, imageUrl: './assets/3image2.jpg', label: '融入民生生活' },
-      { offset: 40, imageUrl: './assets/3image3.jpg', label: '表情包融梗创作' }
     ]
   }
 ];

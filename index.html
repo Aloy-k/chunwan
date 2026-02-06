@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>春晚笑点追综仪</title>
     <script src="https://cdn.tailwindcss.com"></script>
-    <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;700;900&family=Zhi+Mang+Xing&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css2?family=Noto+Serif+SC:wght@400;600;700;900&family=Noto+Sans+SC:wght@400;500;700&family=Zhi+Mang+Xing&display=swap" rel="stylesheet">
     <style>
         body {
             margin: 0;
@@ -18,6 +18,123 @@
         }
         .font-cursive {
             font-family: 'Zhi Mang Xing', cursive;
+        }
+        /* 第三篇章：字体与层级 */
+        .ch3-font-sans { font-family: 'Noto Sans SC', sans-serif; }
+        .ch3-label {
+            font-family: 'Noto Sans SC', sans-serif;
+            font-weight: 700;
+            letter-spacing: 0.35em;
+            text-transform: uppercase;
+        }
+        .ch3-title {
+            font-family: 'Noto Serif SC', serif;
+            font-weight: 900;
+            letter-spacing: -0.02em;
+            text-shadow: 0 2px 20px rgba(0,0,0,0.4);
+        }
+        .ch3-lead {
+            font-family: 'Noto Serif SC', serif;
+            font-weight: 600;
+            line-height: 1.85;
+            letter-spacing: 0.02em;
+        }
+        .ch3-body {
+            font-family: 'Noto Serif SC', serif;
+            line-height: 1.9;
+            letter-spacing: 0.03em;
+        }
+        /* 开篇大标题：更具戏剧感 */
+        .ch3-display {
+            font-family: 'Noto Serif SC', serif;
+            font-weight: 900;
+            letter-spacing: -0.03em;
+            line-height: 1.15;
+            text-shadow: 0 4px 30px rgba(0,0,0,0.5), 0 0 60px rgba(234,179,8,0.08);
+        }
+        .ch3-intro-badge {
+            font-family: 'Noto Sans SC', sans-serif;
+            font-weight: 800;
+            letter-spacing: 0.2em;
+            font-size: 0.7rem;
+        }
+        .ch3-intro-lead {
+            font-family: 'Noto Serif SC', serif;
+            font-weight: 500;
+            line-height: 1.9;
+            letter-spacing: 0.04em;
+        }
+        /* 案例区块：案例标题与副标题 */
+        .ch3-case-label {
+            font-family: 'Noto Sans SC', sans-serif;
+            font-weight: 800;
+            letter-spacing: 0.4em;
+            font-size: 0.65rem;
+            text-transform: uppercase;
+        }
+        .ch3-case-title {
+            font-family: 'Noto Serif SC', serif;
+            font-weight: 900;
+            letter-spacing: -0.02em;
+            line-height: 1.2;
+            text-shadow: 0 2px 24px rgba(0,0,0,0.45);
+        }
+        .ch3-case-period {
+            font-family: 'Noto Sans SC', sans-serif;
+            font-weight: 500;
+            letter-spacing: 0.12em;
+            font-size: 0.8125rem;
+        }
+        /* 步骤内：步骤标签、步骤标题、步骤正文 */
+        .ch3-step-label {
+            font-family: 'Noto Sans SC', sans-serif;
+            font-weight: 800;
+            letter-spacing: 0.25em;
+            font-size: 0.65rem;
+            text-transform: uppercase;
+        }
+        .ch3-step-title {
+            font-family: 'Noto Serif SC', serif;
+            font-weight: 900;
+            letter-spacing: -0.02em;
+            line-height: 1.25;
+            text-shadow: 0 2px 20px rgba(0,0,0,0.5), 0 0 40px rgba(0,0,0,0.2);
+        }
+        .ch3-step-body {
+            font-family: 'Noto Serif SC', serif;
+            font-weight: 500;
+            line-height: 1.85;
+            letter-spacing: 0.03em;
+            text-shadow: 0 1px 8px rgba(0,0,0,0.4);
+        }
+        .ch3-card-label {
+            font-family: 'Noto Sans SC', sans-serif;
+            font-weight: 800;
+            letter-spacing: 0.15em;
+            font-size: 0.625rem;
+            text-transform: uppercase;
+        }
+        .ch3-section-divider {
+            height: 1px;
+            background: linear-gradient(90deg, transparent, rgba(234, 179, 8, 0.15), transparent);
+            margin: 0 auto;
+            max-width: 60%;
+        }
+        .ch3-section-bridge {
+            min-height: 1px;
+            background: linear-gradient(180deg, transparent 0%, rgba(234, 179, 8, 0.06) 30%, rgba(234, 179, 8, 0.12) 50%, rgba(234, 179, 8, 0.06) 70%, transparent 100%);
+            margin: 0 auto;
+            max-width: 85%;
+        }
+        .ch3-fade-in {
+            animation: ch3-fade-in 0.8s ease-out forwards;
+        }
+        @keyframes ch3-fade-in {
+            from { opacity: 0; transform: translateY(12px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+        .ch3-step-fade {
+            transition: opacity 0.7s ease-out;
         }
         * {
             cursor: none !important;
@@ -64,6 +181,86 @@
         }
         .bg-radial-gradient {
             background: radial-gradient(circle at center, var(--tw-gradient-from) 0%, var(--tw-gradient-to) 100%);
+        }
+        /* 第三篇章：Scrollytelling 与动态组件 */
+        @keyframes meme-fall {
+          0% { transform: translateY(-10%) rotate(-5deg); opacity: 0.9; }
+          100% { transform: translateY(110vh) rotate(8deg); opacity: 0.4; }
+        }
+        .animate-meme-fall {
+          animation: meme-fall linear infinite;
+        }
+        .crt-scanlines {
+          background: repeating-linear-gradient(0deg, transparent, transparent 2px, rgba(0,0,0,0.15) 2px, rgba(0,0,0,0.15) 4px);
+          mix-blend-mode: overlay;
+        }
+        .crt-flicker {
+          animation: crt-flicker 4s linear infinite;
+        }
+        @keyframes crt-flicker {
+          0%, 100% { opacity: 1; }
+          92% { opacity: 1; }
+          93% { opacity: 0.8; }
+          94% { opacity: 1; }
+          96% { opacity: 0.9; }
+          97% { opacity: 1; }
+        }
+        @keyframes flip-page {
+          0% { transform: perspective(800px) rotateY(0deg); opacity: 1; }
+          50% { transform: perspective(800px) rotateY(-90deg); opacity: 0.5; }
+          100% { transform: perspective(800px) rotateY(0deg); opacity: 1; }
+        }
+        .animate-flip-page {
+          animation: flip-page 2s ease-in-out forwards;
+        }
+        @keyframes screen-shake {
+          0%, 100% { transform: translateX(0); }
+          10% { transform: translateX(-8px) translateY(-2px); }
+          20% { transform: translateX(8px) translateY(2px); }
+          30% { transform: translateX(-6px) translateY(2px); }
+          40% { transform: translateX(6px) translateY(-2px); }
+          50% { transform: translateX(-4px); }
+          60% { transform: translateX(4px); }
+          70% { transform: translateX(-3px); }
+          80% { transform: translateX(3px); }
+          90% { transform: translateX(-2px); }
+        }
+        .animate-screen-shake {
+          animation: screen-shake 0.5s ease-in-out;
+        }
+        @keyframes goldenReveal {
+          0% { opacity: 0; transform: scale(0.8); }
+          60% { opacity: 1; transform: scale(1.05); }
+          100% { opacity: 1; transform: scale(1); }
+        }
+        .animate-golden-reveal {
+          animation: goldenReveal 0.6s ease-out forwards;
+        }
+        /* 案例一 Step3：表情包滑下露出 */
+        @keyframes meme-slide-reveal {
+          0% { transform: translateY(-120%) scale(0.8) rotate(var(--rotate, 0deg)); opacity: 0; }
+          70% { transform: translateY(5%) scale(1.02) rotate(var(--rotate, 0deg)); opacity: 1; }
+          100% { transform: translateY(0) scale(1) rotate(var(--rotate, 0deg)); opacity: 1; }
+        }
+        .animate-meme-slide-reveal {
+          animation: meme-slide-reveal 0.7s cubic-bezier(0.34, 1.56, 0.64, 1) forwards;
+        }
+        /* 案例一 Step2：聊天气泡逐个显现 */
+        @keyframes chat-bubble-in {
+          0% { transform: scale(0.6) translateY(10px); opacity: 0; }
+          60% { transform: scale(1.05) translateY(-2px); opacity: 1; }
+          100% { transform: scale(1) translateY(0); opacity: 1; }
+        }
+        .animate-chat-bubble-in {
+          animation: chat-bubble-in 0.5s cubic-bezier(0.34, 1.2, 0.64, 1) forwards;
+        }
+        /* 案例一 Step4：彩色弹幕完整划过（右→左，如视频上方弹幕） */
+        @keyframes danmaku-scroll {
+          0% { transform: translateX(0); }
+          100% { transform: translateX(-120vw); }
+        }
+        .animate-danmaku {
+          animation: danmaku-scroll linear infinite;
         }
     </style>
 <script type="importmap">
